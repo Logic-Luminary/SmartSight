@@ -1,0 +1,2034 @@
+[10:20:35] — person ahead on your center, 0.2 meters (100%)
+[10:20:36] — person ahead on your left, 3.2 meters (62%)
+[10:20:37] — apple ahead on your left, 5.2 meters (52%)
+[10:20:38] — person ahead on your left, 5.2 meters (90%)
+[10:20:38] — person ahead on your center, 0.5 meters (75%)
+[10:20:39] — person ahead on your left, 4.2 meters (70%)
+[10:20:40] — person ahead on your left, 5.6 meters (56%)
+[10:20:40] — teddy bear ahead on your center, 0.6 meters (70%)
+[10:20:41] — person ahead on your left, 3.9 meters (67%)
+[10:20:41] — person ahead on your left, 8.9 meters (97%)
+[10:20:42] — person ahead on your left, 4.4 meters (72%)
+[10:20:42] — person ahead on your left, 9.0 meters (77%)
+[10:20:43] — person ahead on your left, 4.6 meters (72%)
+[10:20:43] — person ahead on your left, 3.5 meters (92%)
+[10:20:44] — person ahead on your left, 4.3 meters (83%)
+[10:20:44] — person ahead on your center, 0.7 meters (87%)
+[10:20:44] — person ahead on your left, 8.4 meters (89%)
+[10:20:45] — person ahead on your left, 5.7 meters (64%)
+[10:20:45] — person ahead on your left, 3.7 meters (59%)
+[10:20:46] — person ahead on your left, 5.4 meters (86%)
+[10:20:47] — apple ahead on your left, 5.1 meters (70%)
+[10:20:47] — person ahead on your center, 0.4 meters (91%)
+[10:20:48] — person ahead on your left, 4.1 meters (78%)
+[10:20:49] — person ahead on your left, 4.7 meters (82%)
+[10:20:49] — teddy bear ahead on your center, 0.4 meters (59%)
+[10:20:50] — person ahead on your left, 4.1 meters (84%)
+[10:20:50] — person ahead on your left, 3.4 meters (65%)
+[10:20:51] — person ahead on your center, 0.4 meters (65%)
+[10:20:52] — person ahead on your left, 4.9 meters (94%)
+[10:20:53] — teddy bear ahead on your center, 0.3 meters (86%)
+[10:20:53] — person ahead on your left, 8.9 meters (95%)
+[10:20:54] — person ahead on your left, 3.2 meters (64%)
+[10:20:55] — person ahead on your center, 0.5 meters (89%)
+[10:20:55] — person ahead on your left, 1.4 meters (84%)
+[10:20:55] — person ahead on your left, 8.8 meters (83%)
+[10:20:56] — person ahead on your left, 2.9 meters (57%)
+[10:20:57] — person ahead on your left, 3.6 meters (61%)
+[10:20:58] — person ahead on your center, 0.4 meters (50%)
+[10:20:58] — person ahead on your left, 2.6 meters (69%)
+[10:20:59] — person ahead on your left, 3.3 meters (80%)
+[10:20:59] — teddy bear ahead on your center, 0.4 meters (77%)
+[10:21:00] — person ahead on your left, 2.7 meters (82%)
+[10:21:00] — person ahead on your left, 3.4 meters (58%)
+[10:21:01] — person ahead on your left, 2.5 meters (61%)
+[10:21:01] — person ahead on your center, 0.4 meters (85%)
+[10:21:03] — person ahead on your left, 3.2 meters (79%)
+[10:21:03] — person ahead on your left, 8.8 meters (98%)
+[10:21:04] — person ahead on your left, 2.9 meters (65%)
+[10:21:04] — person ahead on your left, 5.7 meters (89%)
+[10:21:05] — person ahead on your center, 0.4 meters (84%)
+[10:21:05] — apple ahead on your left, 6.1 meters (81%)
+[10:21:06] — person ahead on your left, 6.2 meters (90%)
+[10:21:08] — teddy bear ahead on your center, 0.6 meters (71%)
+[10:21:08] — person ahead on your left, 2.6 meters (71%)
+[10:21:09] — teddy bear ahead on your center, 1.2 meters (62%)
+[10:21:09] — person ahead on your left, 4.1 meters (67%)
+[10:21:10] — person ahead on your center, 0.4 meters (89%)
+[10:21:10] — person ahead on your left, 3.5 meters (80%)
+[10:21:11] — person ahead on your left, 5.3 meters (73%)
+[10:21:11] — person ahead on your left, 4.8 meters (87%)
+[10:21:12] — apple ahead on your left, 5.3 meters (70%)
+[10:21:13] — person ahead on your center, 0.6 meters (99%)
+[10:21:14] — person ahead on your left, 6.9 meters (91%)
+[10:21:14] — person ahead on your left, 6.2 meters (97%)
+[10:21:15] — person ahead on your left, 4.4 meters (72%)
+[10:21:15] — person ahead on your left, 5.3 meters (68%)
+[10:21:15] — person ahead on your left, 4.8 meters (75%)
+[10:21:16] — apple ahead on your left, 5.4 meters (63%)
+[10:21:16] — person ahead on your center, 1.0 meters (85%)
+[10:21:17] — teddy bear ahead on your center, 2.3 meters (72%)
+[10:21:17] — remote ahead on your center, 0.6 meters (66%)
+[10:21:18] — teddy bear ahead on your center, 1.2 meters (60%)
+[10:21:18] — person ahead on your center, 1.8 meters (88%)
+[10:21:19] — person ahead on your left, 4.7 meters (75%)
+[10:21:19] — teddy bear ahead on your center, 2.9 meters (57%)
+[10:21:20] — person ahead on your left, 8.7 meters (84%)
+[10:21:20] — person ahead on your left, 3.0 meters (76%)
+[10:21:21] — person ahead on your left, 3.9 meters (91%)
+[10:21:21] — teddy bear ahead on your center, 1.9 meters (57%)
+[10:21:22] — person ahead on your center, 2.0 meters (70%)
+[10:21:22] — person ahead on your center, 0.2 meters (98%)
+[10:21:22] — person ahead on your left, 5.7 meters (98%)
+[10:21:23] — apple ahead on your left, 4.6 meters (64%)
+[10:21:23] — person ahead on your left, 4.1 meters (88%)
+[10:21:24] — teddy bear ahead on your center, 0.2 meters (52%)
+[10:21:24] — person ahead on your left, 2.7 meters (85%)
+[10:21:25] — apple ahead on your left, 1.1 meters (92%)
+[10:21:25] — person ahead on your right, 3.0 meters (59%)
+[10:21:26] — teddy bear ahead on your right, 1.2 meters (64%)
+[10:21:26] — teddy bear ahead on your right, 2.2 meters (78%)
+[10:21:27] — person ahead on your left, 1.7 meters (80%)
+[10:21:28] — person ahead on your center, 2.7 meters (64%)
+[10:21:30] — person ahead on your center, 3.5 meters (90%)
+[10:21:30] — person ahead on your right, 1.7 meters (61%)
+[10:21:31] — cup ahead on your left, 8.7 meters (62%)
+[10:21:32] — person ahead on your left, 7.9 meters (77%)
+[10:21:32] — cup ahead on your left, 8.2 meters (97%)
+[10:21:32] — person ahead on your center, 0.9 meters (85%)
+[10:21:34] — person ahead on your center, 0.2 meters (96%)
+[10:21:35] — person ahead on your left, 8.0 meters (75%)
+[10:21:36] — person ahead on your center, 1.3 meters (94%)
+[10:21:36] — person ahead on your center, 0.8 meters (96%)
+[10:21:37] — person ahead on your center, 6.5 meters (90%)
+[10:21:37] — person ahead on your center, 1.9 meters (83%)
+[10:21:38] — person ahead on your center, 7.5 meters (95%)
+[10:21:38] — cell phone ahead on your right, 7.9 meters (62%)
+[10:21:39] — person ahead on your center, 8.3 meters (97%)
+[10:21:40] — person ahead on your center, 1.9 meters (97%)
+[10:21:40] — teddy bear ahead on your center, 2.5 meters (68%)
+[10:21:41] — person ahead on your center, 7.0 meters (89%)
+[10:21:41] — person ahead on your center, 1.2 meters (99%)
+[10:21:41] — person ahead on your left, 8.0 meters (96%)
+[10:21:42] — person ahead on your left, 8.5 meters (97%)
+[10:21:43] — traffic light ahead on your right, 2.9 meters (58%)
+[10:21:43] — person ahead on your center, 2.5 meters (78%)
+[10:21:44] — teddy bear ahead on your center, 0.9 meters (80%)
+[10:21:44] — teddy bear ahead on your center, 1.6 meters (78%)
+[10:21:45] — person ahead on your center, 1.9 meters (83%)
+[10:21:46] — teddy bear ahead on your center, 0.7 meters (96%)
+[10:21:46] — teddy bear ahead on your center, 5.3 meters (75%)
+[10:21:47] — person ahead on your left, 8.5 meters (95%)
+[10:21:47] — teddy bear ahead on your center, 6.2 meters (93%)
+[10:21:47] — teddy bear ahead on your center, 6.8 meters (93%)
+[10:21:48] — teddy bear ahead on your center, 7.3 meters (78%)
+[10:21:49] — person ahead on your center, 1.3 meters (98%)
+[10:21:49] — person ahead on your center, 4.7 meters (88%)
+[10:21:50] — person ahead on your center, 2.3 meters (86%)
+[10:21:50] — person ahead on your center, 0.8 meters (93%)
+[10:21:51] — person ahead on your left, 8.6 meters (98%)
+[10:21:51] — person ahead on your left, 7.8 meters (92%)
+[10:21:52] — teddy bear ahead on your right, 1.6 meters (88%)
+[10:21:52] — person ahead on your center, 1.8 meters (79%)
+[10:21:52] — teddy bear ahead on your right, 1.0 meters (64%)
+[10:21:53] — person ahead on your left, 8.6 meters (74%)
+[10:21:54] — teddy bear ahead on your right, 1.9 meters (79%)
+[10:21:55] — vase ahead on your left, 9.5 meters (87%)
+[10:21:57] — teddy bear ahead on your center, 1.7 meters (66%)
+[10:21:57] — person ahead on your left, 8.7 meters (82%)
+[10:21:58] — person ahead on your center, 1.3 meters (52%)
+[10:21:59] — laptop ahead on your left, 7.9 meters (81%)
+[10:22:00] — laptop ahead on your left, 7.4 meters (91%)
+[10:22:01] — vase ahead on your left, 9.6 meters (59%)
+[10:22:02] — traffic light ahead on your center, 3.0 meters (98%)
+[10:22:02] — person ahead on your center, 1.8 meters (71%)
+[10:22:02] — person ahead on your center, 2.6 meters (53%)
+[10:22:05] — vase ahead on your left, 9.6 meters (67%)
+[10:22:05] — person ahead on your center, 1.9 meters (52%)
+[10:22:06] — person ahead on your left, 7.6 meters (99%)
+[10:22:06] — teddy bear ahead on your center, 2.8 meters (66%)
+[10:22:07] — laptop ahead on your left, 8.1 meters (94%)
+[10:22:11] — vase ahead on your left, 9.6 meters (72%)
+[10:22:11] — person ahead on your center, 1.7 meters (70%)
+[10:22:12] — person ahead on your center, 3.2 meters (79%)
+[10:22:12] — chair ahead on your left, 7.8 meters (69%)
+[10:22:13] — person ahead on your center, 2.2 meters (56%)
+[10:22:14] — laptop ahead on your left, 8.6 meters (66%)
+[10:22:15] — vase ahead on your left, 9.7 meters (81%)
+[10:22:16] — laptop ahead on your left, 7.2 meters (59%)
+[10:22:16] — person ahead on your center, 2.4 meters (89%)
+[10:22:18] — fire hydrant ahead on your center, 3.0 meters (64%)
+[10:22:20] — teddy bear ahead on your right, 1.2 meters (97%)
+[10:22:20] — dog ahead on your center, 2.9 meters (50%)
+[10:22:21] — teddy bear ahead on your center, 2.4 meters (72%)
+[10:22:22] — donut ahead on your right, 1.1 meters (56%)
+[10:22:22] — apple ahead on your right, 2.3 meters (54%)
+[10:22:23] — person ahead on your left, 8.1 meters (100%)
+[10:22:23] — person ahead on your left, 8.6 meters (99%)
+[10:22:24] — apple ahead on your center, 6.0 meters (89%)
+[10:22:24] — apple ahead on your center, 2.8 meters (81%)
+[10:22:25] — person ahead on your center, 0.7 meters (51%)
+[10:22:25] — person ahead on your center, 2.1 meters (90%)
+[10:22:26] — vase ahead on your left, 9.6 meters (77%)
+[10:22:26] — teddy bear ahead on your center, 4.8 meters (64%)
+[10:22:27] — apple ahead on your right, 1.2 meters (60%)
+[10:22:29] — teddy bear ahead on your right, 1.3 meters (91%)
+[10:22:29] — person ahead on your center, 0.7 meters (83%)
+[10:22:31] — apple ahead on your center, 0.7 meters (77%)
+[10:22:35] — person ahead on your center, 0.6 meters (84%)
+[10:22:36] — apple ahead on your center, 0.7 meters (68%)
+[10:22:39] — fire hydrant ahead on your center, 0.6 meters (63%)
+[10:22:41] — apple ahead on your center, 0.6 meters (83%)
+[10:22:42] — person ahead on your center, 0.6 meters (68%)
+[10:22:43] — teddy bear ahead on your center, 0.8 meters (74%)
+[10:22:45] — person ahead on your center, 0.6 meters (75%)
+[10:22:48] — person ahead on your center, 0.8 meters (67%)
+[10:22:49] — apple ahead on your center, 0.6 meters (63%)
+[10:22:49] — teddy bear ahead on your center, 0.6 meters (81%)
+[10:22:52] — chair ahead on your left, 6.2 meters (55%)
+[10:22:53] — person ahead on your center, 0.3 meters (92%)
+[10:22:53] — person ahead on your left, 8.6 meters (62%)
+[10:22:54] — teddy bear ahead on your center, 0.2 meters (61%)
+[10:22:54] — bottle ahead on your left, 9.8 meters (90%)
+[10:22:56] — person ahead on your center, 0.6 meters (100%)
+[10:22:56] — chair ahead on your left, 8.7 meters (76%)
+[10:22:57] — person ahead on your left, 9.3 meters (98%)
+[10:22:57] — person ahead on your left, 8.4 meters (86%)
+[10:22:58] — chair ahead on your left, 9.2 meters (77%)
+[10:22:59] — chair ahead on your left, 7.7 meters (66%)
+[10:22:59] — person ahead on your center, 0.4 meters (100%)
+[10:22:59] — cup ahead on your left, 9.2 meters (67%)
+[10:23:00] — person ahead on your left, 7.8 meters (77%)
+[10:23:01] — person ahead on your left, 6.0 meters (95%)
+[10:23:01] — person ahead on your center, 7.1 meters (75%)
+[10:23:02] — person ahead on your center, 6.2 meters (98%)
+[10:23:02] — person ahead on your center, 5.1 meters (100%)
+[10:23:03] — person ahead on your center, 0.9 meters (100%)
+[10:23:03] — person ahead on your center, 5.3 meters (93%)
+[10:23:04] — person ahead on your center, 0.6 meters (98%)
+[10:23:04] — person ahead on your center, 1.2 meters (99%)
+[10:23:04] — person ahead on your center, 0.4 meters (100%)
+[10:23:05] — bottle ahead on your left, 9.7 meters (52%)
+[10:23:05] — person ahead on your left, 7.2 meters (81%)
+[10:23:06] — chair ahead on your left, 8.7 meters (78%)
+[10:23:06] — person ahead on your left, 8.4 meters (76%)
+[10:23:08] — person ahead on your center, 0.3 meters (100%)
+[10:23:08] — donut ahead on your left, 7.5 meters (68%)
+[10:23:09] — donut ahead on your left, 8.3 meters (83%)
+[10:23:09] — bottle ahead on your left, 9.7 meters (89%)
+[10:23:09] — vase ahead on your left, 9.6 meters (54%)
+[10:23:10] — person ahead on your left, 9.2 meters (66%)
+[10:23:11] — person ahead on your center, 0.3 meters (100%)
+[10:23:11] — chair ahead on your left, 8.6 meters (82%)
+[10:23:13] — chair ahead on your left, 8.0 meters (54%)
+[10:23:13] — person ahead on your left, 8.4 meters (95%)
+[10:23:14] — person ahead on your center, 0.2 meters (100%)
+[10:23:17] — person ahead on your center, 0.3 meters (100%)
+[10:23:18] — cup ahead on your left, 9.8 meters (59%)
+[10:23:19] — vase ahead on your left, 9.6 meters (84%)
+[10:23:20] — person ahead on your center, 0.5 meters (100%)
+[10:23:21] — sofa ahead on your left, 5.5 meters (52%)
+[10:23:22] — sofa ahead on your left, 8.3 meters (71%)
+[10:23:22] — bottle ahead on your left, 9.5 meters (70%)
+[10:23:22] — sofa ahead on your left, 7.2 meters (57%)
+[10:23:23] — sofa ahead on your left, 7.7 meters (67%)
+[10:23:23] — person ahead on your center, 0.2 meters (99%)
+[10:23:24] — donut ahead on your left, 6.6 meters (50%)
+[10:23:25] — person ahead on your left, 7.2 meters (52%)
+[10:23:26] — bottle ahead on your left, 9.8 meters (82%)
+[10:23:26] — vase ahead on your left, 9.8 meters (65%)
+[10:23:27] — person ahead on your center, 0.1 meters (99%)
+[10:23:29] — vase ahead on your left, 9.8 meters (86%)
+[10:23:30] — person ahead on your center, 0.2 meters (100%)
+[10:23:30] — umbrella ahead on your left, 9.8 meters (66%)
+[10:23:31] — bottle ahead on your left, 9.5 meters (95%)
+[10:23:31] — chair ahead on your left, 8.5 meters (60%)
+[10:23:32] — chair ahead on your left, 8.0 meters (68%)
+[10:23:32] — chair ahead on your left, 8.7 meters (60%)
+[10:23:33] — person ahead on your center, 0.1 meters (96%)
+[10:23:33] — person ahead on your left, 7.8 meters (98%)
+[10:23:34] — person ahead on your left, 8.6 meters (97%)
+[10:23:35] — person ahead on your left, 7.9 meters (99%)
+[10:23:35] — chair ahead on your left, 8.0 meters (55%)
+[10:23:36] — person ahead on your left, 8.6 meters (99%)
+[10:23:36] — person ahead on your center, 0.2 meters (100%)
+[10:23:38] — laptop ahead on your left, 7.8 meters (75%)
+[10:23:39] — person ahead on your left, 8.1 meters (79%)
+[10:23:39] — person ahead on your center, 0.2 meters (100%)
+[10:23:40] — person ahead on your left, 8.6 meters (99%)
+[10:23:41] — donut ahead on your left, 8.2 meters (64%)
+[10:23:42] — laptop ahead on your left, 7.9 meters (88%)
+[10:23:43] — person ahead on your center, 0.2 meters (93%)
+[10:23:43] — person ahead on your left, 7.9 meters (99%)
+[10:23:44] — person ahead on your left, 8.4 meters (99%)
+[10:23:45] — person ahead on your left, 7.9 meters (80%)
+[10:23:46] — person ahead on your center, 0.2 meters (98%)
+[10:23:47] — chair ahead on your left, 7.6 meters (50%)
+[10:23:47] — person ahead on your left, 8.7 meters (99%)
+[10:23:48] — person ahead on your left, 8.2 meters (99%)
+[10:23:49] — person ahead on your center, 0.5 meters (69%)
+[10:23:49] — person ahead on your left, 8.9 meters (99%)
+[10:23:50] — person ahead on your left, 8.4 meters (99%)
+[10:23:52] — person ahead on your left, 8.9 meters (99%)
+[10:23:52] — person ahead on your center, 0.4 meters (75%)
+[10:23:53] — person ahead on your left, 8.3 meters (61%)
+[10:23:55] — person ahead on your right, 0.5 meters (99%)
+[10:23:55] — person ahead on your center, 0.5 meters (100%)
+[10:23:57] — person ahead on your left, 7.8 meters (83%)
+[10:23:57] — person ahead on your left, 8.6 meters (99%)
+[10:23:58] — cup ahead on your left, 9.7 meters (62%)
+[10:23:58] — person ahead on your center, 0.4 meters (91%)
+[10:24:00] — person ahead on your right, 0.5 meters (97%)
+[10:24:00] — person ahead on your left, 8.4 meters (92%)
+[10:24:01] — bottle ahead on your left, 9.7 meters (89%)
+[10:24:01] — chair ahead on your left, 7.9 meters (67%)
+[10:24:02] — person ahead on your center, 0.4 meters (100%)
+[10:24:02] — cup ahead on your left, 9.7 meters (58%)
+[10:24:02] — chair ahead on your left, 8.5 meters (69%)
+[10:24:03] — person ahead on your right, 0.4 meters (98%)
+[10:24:04] — chair ahead on your left, 7.7 meters (60%)
+[10:24:05] — person ahead on your center, 0.3 meters (100%)
+[10:24:05] — chair ahead on your left, 6.8 meters (62%)
+[10:24:06] — person ahead on your left, 8.1 meters (95%)
+[10:24:06] — sofa ahead on your left, 7.4 meters (71%)
+[10:24:08] — chair ahead on your left, 8.3 meters (75%)
+[10:24:08] — person ahead on your center, 0.4 meters (98%)
+[10:24:09] — person ahead on your right, 0.4 meters (94%)
+[10:24:10] — chair ahead on your left, 7.7 meters (78%)
+[10:24:11] — teddy bear ahead on your center, 0.3 meters (56%)
+[10:24:11] — person ahead on your center, 0.4 meters (99%)
+[10:24:12] — person ahead on your left, 9.1 meters (100%)
+[10:24:12] — chair ahead on your left, 8.6 meters (67%)
+[10:24:13] — bottle ahead on your left, 9.8 meters (64%)
+[10:24:14] — person ahead on your left, 7.7 meters (63%)
+[10:24:14] — person ahead on your center, 0.3 meters (89%)
+[10:24:15] — cup ahead on your left, 9.6 meters (75%)
+[10:24:17] — person ahead on your center, 3.0 meters (96%)
+[10:24:17] — teddy bear ahead on your center, 0.6 meters (88%)
+[10:24:18] — person ahead on your right, 0.8 meters (98%)
+[10:24:18] — person ahead on your center, 0.3 meters (99%)
+[10:24:18] — cup ahead on your left, 9.7 meters (70%)
+[10:24:19] — cup ahead on your left, 9.2 meters (81%)
+[10:24:21] — vase ahead on your left, 9.6 meters (70%)
+[10:24:21] — person ahead on your center, 0.3 meters (99%)
+[10:24:22] — bottle ahead on your left, 9.4 meters (59%)
+[10:24:22] — person ahead on your right, 0.4 meters (99%)
+[10:24:23] — cup ahead on your left, 9.6 meters (68%)
+[10:24:25] — person ahead on your center, 0.3 meters (100%)
+[10:24:25] — bottle ahead on your left, 9.5 meters (82%)
+[10:24:28] — person ahead on your center, 0.3 meters (100%)
+[10:24:31] — person ahead on your center, 0.3 meters (100%)
+[10:24:34] — person ahead on your center, 0.3 meters (100%)
+[10:24:37] — person ahead on your center, 0.4 meters (100%)
+[10:24:40] — person ahead on your center, 0.5 meters (100%)
+[10:24:44] — person ahead on your center, 0.5 meters (100%)
+[10:24:46] — bottle ahead on your left, 9.6 meters (84%)
+[10:24:46] — apple ahead on your left, 8.1 meters (55%)
+[10:24:47] — person ahead on your center, 0.2 meters (100%)
+[10:24:48] — bottle ahead on your left, 8.8 meters (87%)
+[10:24:48] — donut ahead on your left, 9.2 meters (67%)
+[10:24:49] — bottle ahead on your left, 9.3 meters (61%)
+[10:24:50] — person ahead on your center, 0.3 meters (100%)
+[10:24:52] — bottle ahead on your left, 9.1 meters (56%)
+[10:24:54] — person ahead on your center, 0.2 meters (100%)
+[10:24:57] — person ahead on your center, 0.2 meters (100%)
+[10:24:59] — person ahead on your center, 0.8 meters (100%)
+[10:24:59] — bottle ahead on your left, 9.8 meters (66%)
+[10:25:00] — person ahead on your center, 2.0 meters (99%)
+[10:25:01] — cell phone ahead on your center, 1.5 meters (59%)
+[10:25:01] — person ahead on your left, 8.7 meters (99%)
+[10:25:03] — person ahead on your left, 8.1 meters (100%)
+[10:25:03] — vase ahead on your left, 9.4 meters (74%)
+[10:25:04] — person ahead on your left, 8.8 meters (100%)
+[10:25:04] — cell phone ahead on your center, 1.5 meters (97%)
+[10:25:05] — cell phone ahead on your center, 2.1 meters (97%)
+[10:25:05] — bottle ahead on your left, 9.7 meters (81%)
+[10:25:06] — person ahead on your center, 1.7 meters (57%)
+[10:25:07] — cell phone ahead on your center, 1.4 meters (90%)
+[10:25:07] — person ahead on your left, 8.3 meters (100%)
+[10:25:08] — person ahead on your left, 8.8 meters (100%)
+[10:25:10] — person ahead on your center, 1.6 meters (54%)
+[10:25:10] — cell phone ahead on your center, 1.2 meters (77%)
+[10:25:12] — person ahead on your center, 1.0 meters (99%)
+[10:25:12] — person ahead on your left, 9.1 meters (100%)
+[10:25:12] — person ahead on your center, 1.6 meters (99%)
+[10:25:13] — cell phone ahead on your center, 0.5 meters (86%)
+[10:25:13] — person ahead on your center, 0.3 meters (100%)
+[10:25:15] — cup ahead on your left, 9.4 meters (58%)
+[10:25:16] — bottle ahead on your left, 9.5 meters (79%)
+[10:25:17] — person ahead on your center, 0.3 meters (99%)
+[10:25:17] — vase ahead on your left, 9.2 meters (68%)
+[10:25:19] — donut ahead on your left, 8.6 meters (53%)
+[10:25:20] — person ahead on your center, 0.3 meters (99%)
+[10:25:21] — vase ahead on your left, 9.6 meters (51%)
+[10:25:23] — person ahead on your center, 0.3 meters (100%)
+[10:25:25] — person ahead on your center, 0.9 meters (99%)
+[10:25:27] — person ahead on your center, 0.3 meters (100%)
+[10:25:30] — person ahead on your center, 0.4 meters (100%)
+[10:25:31] — bottle ahead on your left, 9.6 meters (93%)
+[10:25:34] — person ahead on your center, 0.3 meters (100%)
+[10:25:37] — person ahead on your center, 0.4 meters (100%)
+[10:25:38] — donut ahead on your left, 8.7 meters (90%)
+[10:25:38] — bottle ahead on your left, 8.7 meters (80%)
+[10:25:39] — bottle ahead on your left, 9.5 meters (77%)
+[10:25:40] — person ahead on your center, 0.3 meters (100%)
+[10:25:43] — toothbrush ahead on your left, 9.2 meters (90%)
+[10:25:43] — person ahead on your center, 0.4 meters (100%)
+[10:25:44] — person ahead on your center, 2.5 meters (99%)
+[10:25:44] — person ahead on your center, 1.6 meters (99%)
+[10:25:45] — person ahead on your center, 0.8 meters (99%)
+[10:25:45] — fork ahead on your left, 7.8 meters (89%)
+[10:25:47] — bottle ahead on your left, 8.7 meters (84%)
+[10:25:48] — person ahead on your center, 1.7 meters (100%)
+[10:25:48] — person ahead on your center, 1.0 meters (100%)
+[10:25:49] — person ahead on your center, 0.3 meters (100%)
+[10:25:50] — fork ahead on your left, 9.3 meters (68%)
+[10:25:51] — person ahead on your center, 2.2 meters (100%)
+[10:25:52] — person ahead on your left, 0.3 meters (100%)
+[10:25:53] — toothbrush ahead on your right, 2.0 meters (61%)
+[10:25:54] — person ahead on your left, 1.0 meters (99%)
+[10:25:54] — person ahead on your left, 0.4 meters (99%)
+[10:26:00] — person ahead on your center, 2.3 meters (61%)
+[10:26:01] — person ahead on your center, 3.0 meters (85%)
+[10:26:02] — person ahead on your center, 5.1 meters (89%)
+[10:26:02] — person ahead on your center, 6.5 meters (94%)
+[10:26:02] — person ahead on your center, 2.5 meters (89%)
+[10:26:04] — person ahead on your center, 0.7 meters (60%)
+[10:26:05] — person ahead on your center, 3.9 meters (82%)
+[10:26:06] — cell phone ahead on your center, 0.5 meters (96%)
+[10:26:07] — cell phone ahead on your center, 1.5 meters (85%)
+[10:26:08] — cell phone ahead on your center, 0.7 meters (88%)
+[10:26:08] — cell phone ahead on your center, 1.3 meters (92%)
+[10:26:09] — bottle ahead on your left, 9.5 meters (83%)
+[10:26:09] — person ahead on your center, 3.6 meters (85%)
+[10:26:10] — person ahead on your center, 4.2 meters (100%)
+[10:26:11] — traffic light ahead on your center, 0.5 meters (86%)
+[10:26:11] — cell phone ahead on your center, 1.2 meters (81%)
+[10:26:12] — person ahead on your center, 1.4 meters (99%)
+[10:26:12] — cell phone ahead on your center, 2.3 meters (92%)
+[10:26:13] — cell phone ahead on your center, 0.4 meters (95%)
+[10:26:14] — cell phone ahead on your center, 1.5 meters (95%)
+[10:26:14] — cell phone ahead on your center, 0.9 meters (88%)
+[10:26:15] — cell phone ahead on your center, 1.5 meters (93%)
+[10:26:15] — bottle ahead on your left, 9.3 meters (77%)
+[10:26:16] — person ahead on your center, 1.8 meters (77%)
+[10:26:16] — person ahead on your center, 2.4 meters (76%)
+[10:26:18] — person ahead on your center, 1.3 meters (99%)
+[10:26:18] — person ahead on your center, 0.2 meters (100%)
+[10:26:19] — person ahead on your left, 3.6 meters (100%)
+[10:26:21] — person ahead on your center, 0.2 meters (100%)
+[10:26:22] — bottle ahead on your left, 9.2 meters (77%)
+[10:26:22] — person ahead on your left, 3.0 meters (99%)
+[10:26:28] — person ahead on your center, 0.2 meters (100%)
+[10:26:31] — person ahead on your center, 0.4 meters (100%)
+[10:26:32] — person ahead on your left, 3.3 meters (99%)
+[10:26:34] — person ahead on your left, 3.9 meters (100%)
+[10:26:34] — person ahead on your center, 0.3 meters (100%)
+[10:26:35] — bottle ahead on your left, 9.3 meters (72%)
+[10:26:38] — person ahead on your center, 0.3 meters (100%)
+[10:26:41] — person ahead on your center, 0.4 meters (100%)
+[10:26:41] — person ahead on your left, 5.1 meters (100%)
+[10:26:43] — cup ahead on your left, 9.6 meters (60%)
+[10:26:44] — person ahead on your left, 3.6 meters (100%)
+[10:26:44] — person ahead on your center, 0.2 meters (100%)
+[10:27:07] — person ahead on your center, 0.7 meters (100%)
+[10:27:08] — person ahead on your left, 7.6 meters (94%)
+[10:27:09] — person ahead on your center, 0.1 meters (100%)
+[10:27:09] — person ahead on your left, 4.5 meters (100%)
+[10:27:12] — person ahead on your center, 0.1 meters (100%)
+[10:27:12] — person ahead on your left, 7.7 meters (98%)
+[10:27:14] — apple ahead on your left, 9.7 meters (84%)
+[10:27:15] — person ahead on your center, 0.2 meters (100%)
+[10:27:16] — bottle ahead on your left, 8.3 meters (88%)
+[10:27:16] — donut ahead on your left, 8.9 meters (60%)
+[10:29:57] — person ahead on your center, 8.8 meters
+[10:29:57] — person ahead on your center, 1.6 meters
+[10:29:58] — person ahead on your center, 0.9 meters
+[10:29:59] — person ahead on your center, 0.2 meters
+[10:29:59] — person ahead on your left, 7.5 meters
+[10:30:00] — person ahead on your left, 8.2 meters
+[10:30:02] — person ahead on your center, 0.3 meters
+[10:30:03] — person ahead on your center, 0.8 meters
+[10:30:04] — chair ahead on your left, 6.1 meters
+[10:30:05] — chair ahead on your left, 7.1 meters
+[10:30:06] — person ahead on your center, 1.2 meters
+[10:30:08] — person ahead on your center, 0.7 meters
+[10:30:12] — person ahead on your center, 0.8 meters
+[10:30:16] — person ahead on your center, 0.5 meters
+[10:30:19] — person ahead on your center, 0.6 meters
+[10:30:24] — person ahead on your center, 0.7 meters
+[10:30:27] — tie ahead on your center, 1.1 meters
+[10:30:27] — person ahead on your left, 4.2 meters
+[10:30:28] — person ahead on your center, 0.3 meters
+[10:30:28] — person ahead on your left, 5.1 meters
+[10:30:29] — cell phone ahead on your center, 2.0 meters
+[10:30:30] — person ahead on your center, 1.9 meters
+[10:30:30] — person ahead on your center, 3.8 meters
+[10:30:31] — cell phone ahead on your center, 2.6 meters
+[10:30:31] — cell phone ahead on your center, 3.5 meters
+[10:30:31] — person ahead on your left, 8.0 meters
+[10:30:32] — cell phone ahead on your center, 3.0 meters
+[10:30:32] — person ahead on your center, 3.2 meters
+[10:30:34] — cell phone ahead on your center, 2.5 meters
+[10:30:35] — person ahead on your center, 2.0 meters
+[10:30:35] — person ahead on your center, 2.6 meters
+[10:30:37] — person ahead on your center, 1.5 meters
+[10:30:37] — chair ahead on your left, 7.8 meters
+[10:30:37] — person ahead on your center, 0.2 meters
+[10:30:38] — person ahead on your left, 8.0 meters
+[10:30:40] — person ahead on your center, 1.3 meters
+[10:30:41] — person ahead on your center, 0.7 meters
+[10:30:41] — cell phone ahead on your center, 0.7 meters
+[10:30:41] — person ahead on your left, 8.3 meters
+[10:30:42] — laptop ahead on your left, 8.3 meters
+[10:30:44] — person ahead on your center, 0.2 meters
+[10:30:44] — person ahead on your left, 8.4 meters
+[10:30:46] — cell phone ahead on your center, 0.6 meters
+[10:30:46] — cell phone ahead on your center, 1.1 meters
+[10:30:47] — person ahead on your center, 0.7 meters
+[10:30:48] — cell phone ahead on your center, 0.5 meters
+[10:30:48] — cell phone ahead on your center, 1.0 meters
+[10:30:50] — person ahead on your center, 0.9 meters
+[10:30:51] — cell phone ahead on your center, 1.1 meters
+[10:30:52] — carrot ahead on your center, 1.1 meters
+[10:30:53] — person ahead on your center, 2.4 meters
+[10:30:54] — cell phone ahead on your center, 0.3 meters
+[10:30:54] — person ahead on your center, 1.6 meters
+[10:30:55] — person ahead on your center, 0.6 meters
+[10:30:57] — cell phone ahead on your center, 0.5 meters
+[10:30:58] — person ahead on your center, 0.3 meters
+[10:31:00] — cell phone ahead on your center, 0.4 meters
+[10:31:01] — person ahead on your center, 1.7 meters
+[10:31:01] — person ahead on your center, 0.7 meters
+[10:31:05] — person ahead on your center, 0.4 meters
+[10:31:08] — person ahead on your center, 0.6 meters
+[10:31:12] — person ahead on your center, 0.5 meters
+[10:31:15] — person ahead on your center, 0.5 meters
+[10:31:19] — person ahead on your center, 0.5 meters
+[10:31:21] — bottle ahead on your left, 9.9 meters
+[10:31:22] — person ahead on your center, 0.5 meters
+[10:31:25] — person ahead on your center, 0.6 meters
+[10:31:29] — person ahead on your center, 0.7 meters
+[10:31:32] — person ahead on your center, 1.2 meters
+[10:31:35] — person ahead on your center, 0.6 meters
+[10:31:36] — person ahead on your center, 1.8 meters
+[10:31:36] — person ahead on your center, 0.3 meters
+[10:31:38] — person ahead on your center, 2.6 meters
+[10:31:38] — person ahead on your center, 1.4 meters
+[10:31:39] — person ahead on your center, 0.4 meters
+[10:31:42] — person ahead on your center, 0.4 meters
+[10:31:46] — person ahead on your center, 0.4 meters
+[10:31:49] — person ahead on your center, 0.2 meters
+[10:31:51] — laptop ahead on your left, 7.8 meters
+[10:31:51] — chair ahead on your left, 8.4 meters
+[10:31:52] — laptop ahead on your left, 8.4 meters
+[10:31:52] — person ahead on your center, 0.6 meters
+[10:31:54] — bottle ahead on your left, 9.0 meters
+[10:31:56] — person ahead on your center, 0.7 meters
+[10:31:57] — laptop ahead on your left, 9.0 meters
+[10:32:00] — person ahead on your center, 0.5 meters
+[10:32:04] — bottle ahead on your left, 9.7 meters
+[10:32:05] — person ahead on your center, 0.3 meters
+[10:32:08] — person ahead on your center, 0.4 meters
+[10:32:12] — person ahead on your center, 0.4 meters
+[10:32:15] — person ahead on your center, 0.4 meters
+[10:32:16] — bottle ahead on your left, 9.1 meters
+[10:32:18] — person ahead on your center, 0.5 meters
+[10:32:20] — bottle ahead on your left, 9.3 meters
+[10:32:21] — person ahead on your center, 0.5 meters
+[10:32:25] — person ahead on your center, 0.2 meters
+[10:32:28] — person ahead on your center, 0.4 meters
+[10:32:32] — person ahead on your center, 0.5 meters
+[10:32:35] — person ahead on your center, 0.6 meters
+[10:32:38] — person ahead on your center, 0.5 meters
+[10:32:42] — person ahead on your center, 0.4 meters
+[10:33:36] — person ahead on your center, 0.3 meters
+[10:33:39] — person ahead on your center, 0.3 meters
+[10:33:42] — person ahead on your center, 0.5 meters
+[10:33:45] — person ahead on your center, 0.3 meters
+[10:33:48] — person ahead on your center, 0.3 meters
+[10:33:49] — chair ahead on your left, 8.4 meters
+[10:42:24] — person ahead on your center, 0.5 meters
+[10:42:27] — laptop ahead on your left, 7.0 meters
+[10:42:27] — person ahead on your center, 0.5 meters
+[10:42:31] — person ahead on your center, 0.4 meters
+[10:42:33] — bottle ahead on your left, 9.6 meters
+[10:42:34] — person ahead on your center, 0.3 meters
+[10:43:03] — person ahead on your center, 0.3 meters
+[10:43:04] — person ahead on your left, 7.3 meters
+[10:43:05] — person ahead on your left, 8.3 meters
+[10:43:06] — person ahead on your left, 7.8 meters
+[10:43:06] — person ahead on your center, 0.4 meters
+[10:43:07] — person ahead on your left, 7.3 meters
+[10:43:07] — person ahead on your left, 8.1 meters
+[10:43:10] — person ahead on your center, 0.4 meters
+[10:43:11] — person ahead on your left, 8.2 meters
+[10:43:12] — person ahead on your center, 1.9 meters
+[10:43:12] — laptop ahead on your left, 6.0 meters
+[10:43:13] — person ahead on your center, 1.3 meters
+[10:43:14] — person ahead on your center, 0.7 meters
+[10:43:14] — person ahead on your center, 1.9 meters
+[10:43:15] — chair ahead on your left, 6.9 meters
+[10:43:17] — person ahead on your center, 1.2 meters
+[10:43:17] — person ahead on your center, 0.7 meters
+[10:43:19] — bottle ahead on your left, 7.8 meters
+[10:43:21] — person ahead on your center, 0.8 meters
+[10:43:22] — person ahead on your center, 2.2 meters
+[10:43:23] — person ahead on your center, 1.6 meters
+[10:43:25] — person ahead on your center, 2.3 meters
+[10:43:25] — chair ahead on your left, 6.1 meters
+[10:43:27] — person ahead on your center, 0.5 meters
+[10:43:30] — chair ahead on your left, 8.3 meters
+[10:43:31] — person ahead on your center, 0.5 meters
+[10:43:32] — laptop ahead on your left, 7.5 meters
+[10:43:34] — person ahead on your center, 0.5 meters
+[10:43:36] — person ahead on your left, 6.7 meters
+[10:43:37] — person ahead on your left, 5.1 meters
+[10:43:37] — person ahead on your center, 0.5 meters
+[10:43:41] — person ahead on your center, 0.5 meters
+[10:43:43] — person ahead on your left, 7.3 meters
+[10:43:47] — person ahead on your center, 0.4 meters
+[10:43:48] — person ahead on your left, 4.6 meters
+[10:43:49] — person ahead on your left, 5.6 meters
+[10:47:02] — person ahead on your center, 0.9 meters
+[10:47:03] — chair ahead on your left, 7.8 meters
+[10:47:04] — chair ahead on your left, 8.7 meters
+[10:47:04] — chair ahead on your left, 7.5 meters
+[10:47:05] — chair ahead on your left, 8.8 meters
+[10:47:06] — person ahead on your center, 0.7 meters
+[10:47:07] — chair ahead on your left, 8.3 meters
+[10:47:09] — person ahead on your center, 0.7 meters
+[10:47:11] — chair ahead on your left, 8.8 meters
+[10:47:31] — person ahead on your center, 0.4 meters
+[10:47:32] — laptop ahead on your left, 8.6 meters
+[10:47:34] — chair ahead on your left, 8.7 meters
+[10:47:35] — person ahead on your center, 0.5 meters
+[10:47:35] — person ahead on your left, 8.5 meters
+[10:47:36] — person ahead on your left, 7.9 meters
+[10:47:37] — chair ahead on your left, 7.8 meters
+[10:48:12] — person ahead on your center, 0.5 meters
+[10:48:12] — person ahead on your left, 7.7 meters
+[10:48:15] — person ahead on your center, 0.6 meters
+[10:48:16] — person ahead on your left, 7.3 meters
+[10:48:17] — chair ahead on your left, 8.0 meters
+[10:48:18] — person ahead on your center, 0.6 meters
+[10:48:19] — person ahead on your left, 7.3 meters
+[10:48:20] — chair ahead on your left, 7.9 meters
+[10:48:21] — person ahead on your center, 0.6 meters
+[10:54:49] — person ahead on your center, 1.5 meters
+[10:54:50] — laptop ahead on your left, 5.2 meters
+[10:54:50] — laptop ahead on your left, 6.6 meters
+[10:54:51] — person ahead on your center, 1.0 meters
+[10:54:51] — laptop ahead on your left, 5.5 meters
+[10:54:52] — person ahead on your left, 7.8 meters
+[10:54:52] — laptop ahead on your left, 6.3 meters
+[10:54:54] — person ahead on your left, 6.9 meters
+[10:54:54] — person ahead on your center, 0.7 meters
+[10:54:56] — person ahead on your left, 7.4 meters
+[10:54:57] — person ahead on your left, 6.9 meters
+[10:54:57] — person ahead on your center, 1.0 meters
+[10:54:59] — laptop ahead on your left, 6.3 meters
+[10:55:00] — laptop ahead on your left, 6.9 meters
+[10:55:01] — person ahead on your center, 0.7 meters
+[10:55:01] — person ahead on your center, 6.2 meters
+[10:55:02] — person ahead on your center, 3.5 meters
+[10:55:02] — person ahead on your center, 0.8 meters
+[10:55:03] — person ahead on your center, 2.0 meters
+[10:55:03] — person ahead on your center, 1.1 meters
+[10:55:03] — person ahead on your right, 1.1 meters
+[10:55:04] — person ahead on your right, 8.4 meters
+[10:55:04] — tvmonitor ahead on your center, 4.7 meters
+[10:55:06] — bottle ahead on your left, 8.3 meters
+[10:55:06] — person ahead on your right, 2.0 meters
+[10:55:07] — person ahead on your right, 8.4 meters
+[10:55:07] — person ahead on your right, 1.7 meters
+[10:55:08] — person ahead on your right, 7.8 meters
+[10:55:08] — person ahead on your right, 5.7 meters
+[10:55:09] — person ahead on your right, 8.4 meters
+[10:55:09] — surfboard ahead on your left, 5.2 meters
+[10:55:10] — bottle ahead on your left, 0.8 meters
+[10:55:10] — bottle ahead on your left, 2.2 meters
+[10:55:11] — bottle ahead on your left, 1.0 meters
+[10:55:11] — bottle ahead on your left, 1.5 meters
+[10:55:12] — person ahead on your right, 9.2 meters
+[10:55:13] — bottle ahead on your left, 2.7 meters
+[10:55:14] — bottle ahead on your left, 4.2 meters
+[10:55:15] — person ahead on your right, 8.8 meters
+[10:55:16] — chair ahead on your center, 3.6 meters
+[10:55:16] — chair ahead on your center, 4.9 meters
+[10:55:16] — person ahead on your right, 6.8 meters
+[10:55:17] — person ahead on your right, 1.7 meters
+[10:55:17] — bottle ahead on your center, 8.4 meters
+[10:55:18] — traffic light ahead on your center, 9.0 meters
+[10:55:18] — laptop ahead on your center, 8.7 meters
+[10:55:19] — laptop ahead on your center, 7.9 meters
+[10:55:21] — laptop ahead on your right, 8.5 meters
+[10:55:22] — person ahead on your right, 1.5 meters
+[10:55:22] — laptop ahead on your right, 5.6 meters
+[10:55:23] — laptop ahead on your right, 8.6 meters
+[10:55:24] — laptop ahead on your right, 7.7 meters
+[10:55:24] — tvmonitor ahead on your center, 8.6 meters
+[10:55:25] — vase ahead on your center, 1.4 meters
+[10:55:25] — chair ahead on your center, 8.9 meters
+[10:55:26] — laptop ahead on your right, 8.4 meters
+[10:55:27] — bottle ahead on your right, 8.7 meters
+[10:55:27] — laptop ahead on your right, 7.8 meters
+[10:55:28] — vase ahead on your center, 1.0 meters
+[10:55:28] — laptop ahead on your right, 7.2 meters
+[10:55:29] — laptop ahead on your right, 6.3 meters
+[10:55:30] — laptop ahead on your right, 5.0 meters
+[10:55:30] — laptop ahead on your right, 4.0 meters
+[10:55:31] — laptop ahead on your right, 5.0 meters
+[10:55:31] — tvmonitor ahead on your center, 4.8 meters
+[10:55:32] — chair ahead on your center, 5.2 meters
+[10:55:32] — tvmonitor ahead on your center, 5.7 meters
+[10:55:32] — laptop ahead on your right, 6.8 meters
+[10:55:34] — laptop ahead on your right, 6.3 meters
+[10:55:34] — laptop ahead on your right, 7.7 meters
+[10:55:35] — person ahead on your right, 1.7 meters
+[10:55:35] — person ahead on your left, 9.6 meters
+[10:55:36] — person ahead on your left, 9.1 meters
+[10:55:36] — laptop ahead on your left, 8.8 meters
+[10:55:37] — person ahead on your right, 1.0 meters
+[10:56:16] — person ahead on your center, 8.0 meters
+[10:56:17] — person ahead on your center, 0.2 meters
+[10:56:17] — person ahead on your center, 2.5 meters
+[10:56:18] — person ahead on your center, 1.4 meters
+[10:56:18] — person ahead on your center, 0.7 meters
+[10:56:21] — person ahead on your center, 0.2 meters
+[10:57:15] — person ahead on your center, 0.2 meters
+[10:57:21] — person ahead on your center, 0.2 meters
+[10:57:26] — person ahead on your center, 0.1 meters
+[10:57:33] — person ahead on your center, 0.2 meters
+[10:57:35] — person ahead on your center, 1.0 meters
+[10:57:36] — person ahead on your center, 0.4 meters
+[10:57:39] — person ahead on your center, 0.5 meters
+[10:57:42] — person ahead on your center, 0.4 meters
+[10:57:45] — person ahead on your center, 0.3 meters
+[10:57:49] — person ahead on your center, 0.2 meters
+[10:57:52] — person ahead on your center, 0.4 meters
+[10:57:55] — person ahead on your center, 0.7 meters
+[10:57:57] — person ahead on your center, 1.5 meters
+[10:57:57] — person ahead on your center, 5.9 meters
+[10:57:58] — person ahead on your center, 6.9 meters
+[10:57:59] — person ahead on your center, 1.1 meters
+[10:58:01] — person ahead on your center, 1.6 meters
+[10:58:01] — person ahead on your center, 1.1 meters
+[10:58:01] — person ahead on your center, 0.6 meters
+[10:58:03] — person ahead on your center, 1.1 meters
+[10:58:04] — person ahead on your center, 0.5 meters
+[10:58:53] — person ahead on your center, 0.4 meters
+[10:58:57] — person ahead on your center, 0.4 meters
+[10:59:00] — person ahead on your center, 0.3 meters
+[10:59:03] — person ahead on your center, 0.4 meters
+[10:59:06] — person ahead on your center, 0.5 meters
+[10:59:09] — person ahead on your center, 1.2 meters
+[10:59:10] — person ahead on your center, 1.7 meters
+[10:59:11] — tie ahead on your center, 1.2 meters
+[10:59:12] — person ahead on your center, 1.0 meters
+[10:59:13] — person ahead on your center, 0.5 meters
+[10:59:16] — person ahead on your center, 0.6 meters
+[10:59:17] — person ahead on your center, 1.4 meters
+[10:59:17] — person ahead on your center, 4.3 meters
+[10:59:18] — person ahead on your center, 2.8 meters
+[10:59:18] — person ahead on your center, 1.1 meters
+[10:59:19] — person ahead on your center, 2.6 meters
+[10:59:19] — bottle ahead on your left, 1.5 meters
+[10:59:20] — person ahead on your left, 1.6 meters
+[10:59:21] — person ahead on your center, 3.1 meters
+[10:59:22] — cell phone ahead on your left, 0.5 meters
+[10:59:22] — person ahead on your center, 3.6 meters
+[10:59:23] — person ahead on your left, 2.1 meters
+[10:59:24] — person ahead on your center, 0.8 meters
+[10:59:24] — person ahead on your center, 6.3 meters
+[10:59:25] — person ahead on your center, 5.6 meters
+[10:59:25] — person ahead on your center, 1.0 meters
+[10:59:26] — person ahead on your center, 3.4 meters
+[10:59:26] — bottle ahead on your left, 2.1 meters
+[10:59:27] — bottle ahead on your center, 2.9 meters
+[10:59:28] — bottle ahead on your center, 3.4 meters
+[10:59:29] — bottle ahead on your center, 2.0 meters
+[10:59:29] — bottle ahead on your center, 2.8 meters
+[10:59:30] — bottle ahead on your left, 1.5 meters
+[10:59:30] — person ahead on your center, 0.3 meters
+[10:59:31] — person ahead on your left, 8.0 meters
+[10:59:31] — toothbrush ahead on your left, 5.0 meters
+[10:59:32] — person ahead on your center, 4.0 meters
+[10:59:33] — person ahead on your center, 4.6 meters
+[10:59:34] — person ahead on your center, 2.3 meters
+[10:59:34] — person ahead on your center, 1.2 meters
+[10:59:35] — person ahead on your center, 0.6 meters
+[11:10:41] — person ahead on your center, 1.1 meters
+[11:10:42] — person ahead on your center, 0.3 meters
+[11:10:43] — person ahead on your center, 0.8 meters
+[11:10:44] — person ahead on your center, 3.6 meters
+[11:10:45] — person ahead on your center, 2.7 meters
+[11:10:45] — person ahead on your center, 1.3 meters
+[11:10:46] — person ahead on your center, 2.4 meters
+[11:10:48] — person ahead on your center, 0.3 meters
+[11:10:48] — person ahead on your center, 3.0 meters
+[11:10:49] — person ahead on your center, 1.6 meters
+[11:50:40] — person ahead on your center, 0.3 meters
+[11:50:41] — person ahead on your center, 1.1 meters
+[11:50:41] — person ahead on your center, 0.3 meters
+[11:50:42] — person ahead on your center, 0.9 meters
+[11:50:42] — person ahead on your center, 1.5 meters
+[11:50:43] — person ahead on your left, 3.2 meters
+[11:50:44] — person ahead on your center, 1.0 meters
+[11:50:44] — person ahead on your left, 2.4 meters
+[11:50:45] — person ahead on your center, 2.0 meters
+[11:50:46] — person ahead on your center, 1.0 meters
+[11:50:47] — person ahead on your left, 3.5 meters
+[11:50:47] — person ahead on your center, 1.9 meters
+[11:50:48] — person ahead on your center, 0.8 meters
+[11:50:48] — person ahead on your left, 2.6 meters
+[11:50:49] — person ahead on your left, 1.9 meters
+[12:17:50] — person ahead on your center, 0.5 meters
+[12:17:50] — person ahead on your center, 1.0 meters
+[12:17:51] — person ahead on your left, 7.9 meters
+[12:17:51] — person ahead on your center, 0.4 meters
+[12:17:54] — person ahead on your center, 1.1 meters
+[12:17:54] — person ahead on your left, 8.4 meters
+[12:17:56] — person ahead on your center, 0.6 meters
+[12:17:57] — person ahead on your center, 1.2 meters
+[12:17:58] — person ahead on your center, 0.6 meters
+[12:17:59] — person ahead on your left, 7.1 meters
+[12:17:59] — person ahead on your center, 0.1 meters
+[12:19:34] — person ahead on your center, 0.3 meters
+[12:19:38] — person ahead on your center, 0.3 meters
+[12:20:57] — person ahead on your center, 0.7 meters
+[12:21:00] — person ahead on your center, 0.9 meters
+[12:21:03] — person ahead on your center, 0.8 meters
+[12:21:06] — person ahead on your center, 7.6 meters
+[12:22:26] — person ahead on your center, 0.3 meters
+[12:22:30] — person ahead on your center, 0.4 meters
+[12:22:33] — person ahead on your center, 1.0 meters
+[12:22:34] — remote ahead on your right, 1.2 meters
+[12:22:35] — remote ahead on your center, 0.9 meters
+[12:22:36] — remote ahead on your center, 1.5 meters
+[12:22:36] — person ahead on your center, 2.4 meters
+[12:22:37] — person ahead on your left, 6.5 meters
+[12:22:38] — person ahead on your center, 3.9 meters
+[12:22:39] — person ahead on your left, 3.5 meters
+[12:22:39] — remote ahead on your center, 1.9 meters
+[12:22:40] — person ahead on your center, 1.4 meters
+[12:22:41] — remote ahead on your right, 1.9 meters
+[12:22:42] — cell phone ahead on your right, 2.1 meters
+[12:22:43] — person ahead on your center, 0.2 meters
+[12:22:45] — person ahead on your center, 6.0 meters
+[12:22:46] — person ahead on your left, 5.6 meters
+[12:22:46] — person ahead on your center, 1.6 meters
+[12:22:47] — person ahead on your center, 2.1 meters
+[12:22:48] — person ahead on your center, 2.7 meters
+[12:22:49] — person ahead on your center, 1.8 meters
+[12:22:49] — person ahead on your left, 6.2 meters
+[12:22:50] — person ahead on your left, 5.6 meters
+[12:22:50] — person ahead on your left, 6.2 meters
+[12:22:51] — person ahead on your center, 2.5 meters
+[12:22:51] — person ahead on your center, 1.1 meters
+[12:22:53] — person ahead on your center, 2.1 meters
+[12:22:54] — cell phone ahead on your center, 8.6 meters
+[12:22:55] — person ahead on your center, 0.3 meters
+[12:22:55] — bottle ahead on your left, 9.1 meters
+[12:22:56] — bottle ahead on your left, 9.6 meters
+[12:22:56] — bottle ahead on your left, 9.0 meters
+[12:22:57] — person ahead on your center, 5.5 meters
+[12:22:58] — person ahead on your center, 3.1 meters
+[12:23:00] — bottle ahead on your left, 9.4 meters
+[12:23:00] — person ahead on your center, 7.9 meters
+[12:23:02] — person ahead on your center, 8.5 meters
+[12:23:03] — person ahead on your center, 2.3 meters
+[12:23:03] — bottle ahead on your left, 9.2 meters
+[12:23:06] — person ahead on your center, 2.8 meters
+[12:23:06] — bottle ahead on your left, 9.4 meters
+[12:23:07] — person ahead on your center, 6.6 meters
+[12:23:08] — cell phone ahead on your center, 1.3 meters
+[12:23:09] — person ahead on your center, 7.3 meters
+[12:23:11] — cell phone ahead on your center, 1.2 meters
+[12:23:11] — person ahead on your center, 0.2 meters
+[12:23:12] — bottle ahead on your left, 9.5 meters
+[12:26:24] — person ahead on your center, 0.5 meters
+[12:26:27] — bottle ahead on your left, 8.5 meters
+[12:26:27] — person ahead on your center, 0.5 meters
+[12:26:30] — person ahead on your center, 0.4 meters
+[12:27:41] — person ahead on your center, 0.2 meters
+[12:27:42] — vase ahead on your left, 9.3 meters
+[12:27:43] — umbrella ahead on your left, 9.2 meters
+[12:27:45] — person ahead on your center, 0.2 meters
+[12:27:45] — vase ahead on your left, 9.1 meters
+[12:27:47] — person ahead on your center, 1.0 meters
+[12:27:48] — umbrella ahead on your left, 7.1 meters
+[12:27:49] — cup ahead on your left, 6.8 meters
+[12:27:49] — umbrella ahead on your left, 7.9 meters
+[12:27:50] — umbrella ahead on your left, 8.6 meters
+[12:27:51] — person ahead on your center, 0.9 meters
+[12:27:53] — umbrella ahead on your left, 8.6 meters
+[12:27:54] — person ahead on your center, 0.9 meters
+[12:27:56] — cell phone ahead on your center, 0.3 meters
+[12:27:56] — person ahead on your center, 0.4 meters
+[12:27:57] — bottle ahead on your left, 9.3 meters
+[12:27:57] — person ahead on your center, 1.1 meters
+[12:27:58] — umbrella ahead on your left, 8.8 meters
+[12:27:58] — bottle ahead on your left, 7.7 meters
+[12:27:59] — cup ahead on your left, 8.5 meters
+[12:28:00] — vase ahead on your left, 8.4 meters
+[12:28:01] — person ahead on your center, 0.9 meters
+[12:28:03] — vase ahead on your left, 8.1 meters
+[12:28:04] — person ahead on your center, 1.1 meters
+[12:28:05] — bottle ahead on your left, 8.4 meters
+[12:28:06] — cup ahead on your left, 8.3 meters
+[12:28:07] — person ahead on your center, 1.2 meters
+[12:28:08] — vase ahead on your left, 7.6 meters
+[12:28:09] — bottle ahead on your left, 8.2 meters
+[12:28:10] — person ahead on your center, 1.0 meters
+[12:28:11] — bottle ahead on your left, 8.8 meters
+[12:28:11] — umbrella ahead on your left, 9.3 meters
+[12:28:13] — vase ahead on your left, 8.6 meters
+[12:28:14] — person ahead on your center, 1.0 meters
+[12:28:15] — cup ahead on your left, 8.7 meters
+[12:28:16] — bottle ahead on your left, 8.6 meters
+[12:28:16] — cup ahead on your left, 8.2 meters
+[12:28:17] — person ahead on your center, 0.6 meters
+[12:28:17] — vase ahead on your left, 8.4 meters
+[12:28:19] — bottle ahead on your left, 9.5 meters
+[12:28:20] — umbrella ahead on your left, 8.8 meters
+[12:28:20] — person ahead on your center, 0.5 meters
+[12:28:21] — vase ahead on your left, 8.7 meters
+[12:28:22] — bottle ahead on your left, 9.0 meters
+[12:28:23] — vase ahead on your left, 9.7 meters
+[12:28:24] — person ahead on your center, 0.7 meters
+[12:28:25] — bottle ahead on your left, 9.7 meters
+[12:28:26] — umbrella ahead on your left, 9.5 meters
+[12:28:27] — person ahead on your center, 0.7 meters
+[12:28:27] — vase ahead on your left, 9.4 meters
+[12:28:28] — bottle ahead on your left, 9.4 meters
+[12:28:30] — person ahead on your center, 0.8 meters
+[12:28:31] — bottle ahead on your left, 8.9 meters
+[12:28:32] — person ahead on your center, 0.1 meters
+[12:28:32] — bottle ahead on your left, 9.5 meters
+[12:28:34] — bottle ahead on your left, 8.8 meters
+[12:28:35] — person ahead on your center, 0.5 meters
+[12:28:37] — bottle ahead on your left, 9.1 meters
+[12:28:39] — person ahead on your center, 0.1 meters
+[12:28:40] — bottle ahead on your left, 8.1 meters
+[12:28:43] — person ahead on your center, 0.6 meters
+[12:28:44] — umbrella ahead on your left, 9.6 meters
+[12:28:46] — person ahead on your center, 0.6 meters
+[12:28:48] — umbrella ahead on your left, 9.3 meters
+[12:28:50] — person ahead on your center, 0.7 meters
+[12:28:52] — umbrella ahead on your left, 9.0 meters
+[12:28:52] — vase ahead on your left, 8.1 meters
+[12:28:53] — person ahead on your center, 0.4 meters
+[12:28:54] — vase ahead on your left, 8.9 meters
+[12:28:56] — person ahead on your center, 0.1 meters
+[12:28:57] — bottle ahead on your left, 8.2 meters
+[12:28:58] — person ahead on your center, 1.2 meters
+[12:28:58] — vase ahead on your left, 9.5 meters
+[12:28:59] — cell phone ahead on your center, 2.2 meters
+[12:28:59] — remote ahead on your right, 4.9 meters
+[12:29:00] — person ahead on your center, 2.8 meters
+[12:29:01] — person ahead on your center, 0.2 meters
+[12:29:01] — person ahead on your center, 2.7 meters
+[12:29:02] — cell phone ahead on your center, 8.9 meters
+[12:29:02] — person ahead on your center, 1.2 meters
+[12:29:04] — person ahead on your center, 3.6 meters
+[12:29:04] — person ahead on your center, 1.9 meters
+[12:29:05] — person ahead on your center, 0.5 meters
+[12:29:05] — person ahead on your center, 1.1 meters
+[12:29:06] — person ahead on your center, 0.6 meters
+[12:29:09] — person ahead on your center, 1.1 meters
+[12:29:10] — person ahead on your center, 0.5 meters
+[12:29:10] — person ahead on your center, 3.2 meters
+[12:29:11] — person ahead on your center, 0.2 meters
+[12:29:12] — person ahead on your center, 2.2 meters
+[12:29:12] — person ahead on your center, 1.1 meters
+[12:29:13] — person ahead on your center, 1.9 meters
+[12:29:14] — person ahead on your center, 2.5 meters
+[12:29:15] — person ahead on your center, 1.9 meters
+[12:29:18] — bottle ahead on your left, 8.7 meters
+[12:29:18] — person ahead on your center, 2.2 meters
+[12:29:21] — person ahead on your center, 5.1 meters
+[12:29:21] — person ahead on your center, 2.9 meters
+[12:29:23] — person ahead on your center, 2.0 meters
+[12:29:23] — person ahead on your center, 1.5 meters
+[12:29:26] — person ahead on your center, 3.6 meters
+[12:29:26] — person ahead on your center, 1.3 meters
+[12:29:28] — bottle ahead on your left, 8.5 meters
+[12:29:29] — bottle ahead on your left, 9.2 meters
+[12:29:31] — cell phone ahead on your center, 2.2 meters
+[12:29:32] — person ahead on your center, 6.9 meters
+[12:29:33] — cell phone ahead on your left, 0.9 meters
+[12:29:33] — person ahead on your center, 0.7 meters
+[12:29:34] — vase ahead on your left, 8.7 meters
+[12:29:35] — vase ahead on your left, 7.9 meters
+[12:29:35] — bottle ahead on your left, 8.7 meters
+[12:29:37] — person ahead on your center, 0.4 meters
+[12:29:37] — person ahead on your center, 7.1 meters
+[12:29:39] — person ahead on your center, 3.1 meters
+[12:29:40] — vase ahead on your left, 6.3 meters
+[12:29:41] — bottle ahead on your left, 8.7 meters
+[12:29:42] — bottle ahead on your left, 8.2 meters
+[12:29:42] — bottle ahead on your left, 8.8 meters
+[12:29:43] — vase ahead on your left, 8.3 meters
+[12:29:44] — person ahead on your center, 6.6 meters
+[12:29:44] — person ahead on your left, 5.1 meters
+[12:29:45] — bottle ahead on your left, 7.5 meters
+[12:29:45] — person ahead on your left, 8.8 meters
+[12:29:46] — person ahead on your left, 9.3 meters
+[12:29:47] — bottle ahead on your left, 8.7 meters
+[12:29:47] — vase ahead on your left, 8.3 meters
+[12:29:48] — bottle ahead on your left, 8.1 meters
+[12:29:48] — umbrella ahead on your left, 9.9 meters
+[12:29:49] — bottle ahead on your left, 9.2 meters
+[12:29:50] — bottle ahead on your left, 6.9 meters
+[12:29:50] — vase ahead on your left, 8.9 meters
+[12:29:51] — bottle ahead on your left, 7.8 meters
+[12:29:52] — umbrella ahead on your left, 9.9 meters
+[12:29:54] — bottle ahead on your left, 7.8 meters
+[12:29:56] — bottle ahead on your left, 6.9 meters
+[12:29:57] — bottle ahead on your left, 7.5 meters
+[12:29:57] — bottle ahead on your left, 8.1 meters
+[12:29:58] — umbrella ahead on your left, 9.8 meters
+[12:29:59] — bottle ahead on your left, 7.4 meters
+[12:29:59] — bottle ahead on your left, 8.2 meters
+[12:30:00] — bottle ahead on your left, 7.6 meters
+[12:30:01] — bottle ahead on your left, 8.4 meters
+[12:30:02] — bottle ahead on your left, 7.9 meters
+[12:30:04] — bottle ahead on your left, 7.4 meters
+[12:30:05] — vase ahead on your left, 7.5 meters
+[12:30:06] — bottle ahead on your left, 7.9 meters
+[12:30:06] — vase ahead on your left, 8.4 meters
+[12:30:07] — umbrella ahead on your left, 9.9 meters
+[12:30:08] — bottle ahead on your left, 8.6 meters
+[12:30:08] — bottle ahead on your left, 9.2 meters
+[12:30:09] — bottle ahead on your left, 8.6 meters
+[12:30:10] — bottle ahead on your left, 7.8 meters
+[12:30:10] — vase ahead on your left, 8.5 meters
+[12:30:11] — bottle ahead on your left, 8.3 meters
+[12:30:12] — vase ahead on your left, 7.1 meters
+[12:30:13] — person ahead on your left, 8.9 meters
+[12:30:14] — vase ahead on your left, 7.9 meters
+[12:30:15] — bottle ahead on your left, 7.7 meters
+[12:30:17] — bottle ahead on your left, 8.4 meters
+[12:30:17] — person ahead on your left, 9.1 meters
+[12:30:18] — person ahead on your left, 4.2 meters
+[12:30:18] — person ahead on your left, 6.2 meters
+[12:30:19] — person ahead on your left, 4.1 meters
+[12:30:19] — bottle ahead on your left, 6.8 meters
+[12:30:20] — vase ahead on your left, 8.4 meters
+[12:30:20] — bottle ahead on your left, 8.1 meters
+[12:30:21] — vase ahead on your left, 9.0 meters
+[12:30:21] — umbrella ahead on your left, 9.9 meters
+[12:30:22] — bottle ahead on your left, 7.5 meters
+[12:30:22] — vase ahead on your left, 8.0 meters
+[12:30:24] — bottle ahead on your left, 8.1 meters
+[12:30:25] — bottle ahead on your left, 7.1 meters
+[12:30:25] — bottle ahead on your left, 8.2 meters
+[12:30:26] — vase ahead on your left, 8.0 meters
+[12:30:26] — bottle ahead on your left, 6.4 meters
+[12:30:28] — person ahead on your left, 0.8 meters
+[12:30:28] — person ahead on your center, 1.4 meters
+[12:30:29] — bottle ahead on your left, 8.9 meters
+[12:30:31] — bottle ahead on your left, 8.3 meters
+[12:30:31] — vase ahead on your left, 8.3 meters
+[12:30:32] — person ahead on your center, 1.6 meters
+[12:30:32] — traffic light ahead on your left, 7.8 meters
+[12:30:33] — person ahead on your right, 1.4 meters
+[12:30:33] — traffic light ahead on your left, 8.7 meters
+[12:30:34] — bottle ahead on your left, 8.3 meters
+[12:30:34] — bottle ahead on your left, 7.1 meters
+[12:30:35] — bottle ahead on your left, 8.3 meters
+[12:30:35] — person ahead on your right, 0.6 meters
+[12:30:36] — bottle ahead on your left, 8.9 meters
+[12:30:37] — person ahead on your right, 1.1 meters
+[12:30:38] — person ahead on your right, 1.6 meters
+[12:30:38] — traffic light ahead on your left, 4.5 meters
+[12:30:39] — person ahead on your right, 2.2 meters
+[12:30:40] — person ahead on your right, 1.5 meters
+[12:30:40] — traffic light ahead on your left, 1.2 meters
+[12:30:41] — traffic light ahead on your left, 2.8 meters
+[12:30:41] — traffic light ahead on your left, 0.7 meters
+[12:30:42] — traffic light ahead on your left, 1.3 meters
+[12:30:43] — person ahead on your right, 1.7 meters
+[12:30:43] — traffic light ahead on your left, 0.8 meters
+[12:30:44] — traffic light ahead on your left, 5.7 meters
+[12:30:44] — vase ahead on your left, 7.1 meters
+[12:30:45] — traffic light ahead on your left, 2.5 meters
+[12:30:46] — traffic light ahead on your left, 0.7 meters
+[12:30:46] — person ahead on your right, 1.5 meters
+[12:30:48] — traffic light ahead on your left, 3.1 meters
+[12:30:49] — bottle ahead on your left, 9.3 meters
+[12:30:50] — person ahead on your right, 1.6 meters
+[12:30:51] — bottle ahead on your left, 8.5 meters
+[12:30:52] — traffic light ahead on your left, 8.4 meters
+[12:30:52] — traffic light ahead on your left, 7.6 meters
+[12:30:53] — person ahead on your right, 1.3 meters
+[12:30:53] — traffic light ahead on your left, 9.0 meters
+[12:30:55] — vase ahead on your left, 9.0 meters
+[12:30:56] — person ahead on your right, 1.5 meters
+[12:30:56] — person ahead on your right, 4.0 meters
+[12:30:57] — person ahead on your right, 1.3 meters
+[12:30:57] — person ahead on your center, 1.9 meters
+[12:30:58] — person ahead on your center, 5.4 meters
+[12:30:58] — bottle ahead on your left, 9.0 meters
+[12:31:00] — person ahead on your center, 4.9 meters
+[12:31:01] — person ahead on your right, 1.4 meters
+[12:31:01] — vase ahead on your left, 9.0 meters
+[12:31:02] — person ahead on your right, 4.1 meters
+[12:31:02] — person ahead on your right, 1.3 meters
+[12:31:03] — person ahead on your right, 0.7 meters
+[12:31:05] — vase ahead on your left, 7.9 meters
+[12:31:05] — vase ahead on your left, 9.0 meters
+[12:31:06] — person ahead on your right, 0.3 meters
+[12:31:07] — umbrella ahead on your left, 9.8 meters
+[12:31:07] — bottle ahead on your left, 9.1 meters
+[12:31:09] — vase ahead on your left, 8.8 meters
+[12:31:10] — person ahead on your right, 1.3 meters
+[12:31:11] — bottle ahead on your left, 8.4 meters
+[12:31:12] — person ahead on your center, 4.7 meters
+[12:31:12] — person ahead on your center, 2.4 meters
+[12:31:13] — person ahead on your center, 1.0 meters
+[12:31:14] — bottle ahead on your left, 9.5 meters
+[12:31:15] — bottle ahead on your left, 8.9 meters
+[12:31:16] — vase ahead on your left, 8.8 meters
+[12:31:16] — person ahead on your center, 1.4 meters
+[12:31:17] — person ahead on your center, 0.8 meters
+[12:31:20] — person ahead on your center, 1.0 meters
+[12:31:21] — bottle ahead on your left, 8.8 meters
+[12:31:23] — person ahead on your center, 1.2 meters
+[12:31:25] — vase ahead on your left, 7.2 meters
+[12:31:26] — vase ahead on your left, 9.1 meters
+[12:31:27] — person ahead on your center, 0.9 meters
+[12:31:28] — vase ahead on your left, 8.2 meters
+[12:31:30] — person ahead on your center, 2.2 meters
+[12:31:31] — person ahead on your center, 5.6 meters
+[12:31:32] — person ahead on your center, 6.4 meters
+[12:31:33] — person ahead on your center, 5.8 meters
+[12:31:35] — bottle ahead on your left, 8.7 meters
+[12:31:36] — person ahead on your center, 1.1 meters
+[12:31:37] — umbrella ahead on your left, 9.1 meters
+[12:31:38] — bottle ahead on your left, 7.2 meters
+[12:31:39] — person ahead on your center, 1.4 meters
+[12:31:40] — person ahead on your right, 1.4 meters
+[12:31:42] — bottle ahead on your left, 7.3 meters
+[12:31:43] — person ahead on your right, 1.4 meters
+[12:31:44] — umbrella ahead on your left, 9.2 meters
+[12:31:45] — cup ahead on your left, 6.8 meters
+[12:31:46] — person ahead on your right, 1.3 meters
+[12:31:47] — umbrella ahead on your left, 9.4 meters
+[12:31:49] — bottle ahead on your left, 7.7 meters
+[12:31:50] — person ahead on your right, 1.0 meters
+[12:31:53] — person ahead on your center, 0.5 meters
+[12:31:54] — vase ahead on your left, 9.6 meters
+[12:31:55] — cell phone ahead on your left, 1.7 meters
+[12:31:56] — person ahead on your center, 1.0 meters
+[12:31:57] — cup ahead on your left, 9.2 meters
+[12:31:59] — person ahead on your right, 1.2 meters
+[12:32:00] — bottle ahead on your left, 9.0 meters
+[12:32:01] — umbrella ahead on your left, 9.9 meters
+[12:32:02] — person ahead on your right, 1.3 meters
+[12:32:04] — bottle ahead on your left, 8.8 meters
+[12:32:05] — person ahead on your center, 1.5 meters
+[12:32:06] — person ahead on your center, 3.5 meters
+[12:32:07] — person ahead on your center, 4.4 meters
+[12:32:08] — person ahead on your center, 6.0 meters
+[12:32:09] — person ahead on your center, 2.8 meters
+[12:32:10] — person ahead on your center, 4.1 meters
+[12:32:11] — bottle ahead on your left, 8.5 meters
+[12:32:12] — person ahead on your center, 4.6 meters
+[12:32:12] — person ahead on your center, 5.3 meters
+[12:32:13] — person ahead on your center, 4.8 meters
+[12:32:14] — person ahead on your center, 5.6 meters
+[12:32:15] — vase ahead on your left, 8.8 meters
+[12:32:16] — person ahead on your center, 6.9 meters
+[12:32:17] — bottle ahead on your left, 8.5 meters
+[12:32:18] — umbrella ahead on your left, 9.4 meters
+[12:32:19] — person ahead on your center, 6.5 meters
+[12:32:20] — person ahead on your center, 1.6 meters
+[12:32:20] — bottle ahead on your left, 8.0 meters
+[12:32:22] — bottle ahead on your left, 8.8 meters
+[12:32:23] — person ahead on your center, 1.9 meters
+[12:32:25] — bottle ahead on your left, 8.2 meters
+[12:32:25] — person ahead on your center, 5.5 meters
+[12:32:26] — person ahead on your center, 2.7 meters
+[12:32:27] — person ahead on your center, 2.2 meters
+[12:32:28] — bottle ahead on your left, 9.0 meters
+[12:32:29] — person ahead on your center, 1.4 meters
+[12:32:29] — person ahead on your center, 2.0 meters
+[12:32:30] — person ahead on your center, 1.2 meters
+[12:32:31] — person ahead on your center, 0.7 meters
+[12:32:32] — person ahead on your center, 1.5 meters
+[12:32:33] — person ahead on your center, 0.5 meters
+[12:32:33] — person ahead on your center, 1.5 meters
+[12:32:35] — bottle ahead on your left, 9.6 meters
+[12:32:36] — umbrella ahead on your left, 9.8 meters
+[12:32:37] — person ahead on your center, 0.8 meters
+[12:32:38] — person ahead on your right, 0.9 meters
+[12:32:39] — vase ahead on your left, 9.3 meters
+[12:32:40] — person ahead on your right, 1.8 meters
+[12:32:40] — bottle ahead on your left, 9.8 meters
+[12:33:47] — person ahead on your center, 1.4 meters
+[12:33:48] — bottle ahead on your left, 9.6 meters
+[12:33:48] — person ahead on your center, 1.9 meters
+[12:33:49] — bottle ahead on your left, 9.1 meters
+[12:33:50] — person ahead on your center, 1.3 meters
+[12:33:50] — person ahead on your center, 2.7 meters
+[12:33:51] — person ahead on your center, 1.0 meters
+[12:33:52] — person ahead on your center, 2.5 meters
+[12:33:52] — person ahead on your center, 1.4 meters
+[12:33:53] — person ahead on your center, 2.9 meters
+[12:33:53] — person ahead on your center, 1.4 meters
+[12:33:54] — person ahead on your center, 2.3 meters
+[12:33:54] — person ahead on your center, 1.2 meters
+[12:33:55] — person ahead on your center, 2.6 meters
+[12:33:55] — person ahead on your center, 1.2 meters
+[12:33:56] — person ahead on your center, 2.8 meters
+[12:33:56] — person ahead on your center, 1.2 meters
+[12:33:57] — person ahead on your center, 2.2 meters
+[12:33:57] — person ahead on your center, 1.2 meters
+[12:33:58] — person ahead on your center, 2.5 meters
+[12:33:58] — person ahead on your center, 5.0 meters
+[12:33:59] — person ahead on your center, 1.8 meters
+[12:33:59] — person ahead on your center, 6.6 meters
+[12:34:00] — person ahead on your center, 1.5 meters
+[12:34:01] — person ahead on your center, 2.0 meters
+[12:34:01] — person ahead on your center, 4.8 meters
+[12:34:02] — person ahead on your right, 1.3 meters
+[12:34:02] — person ahead on your right, 5.3 meters
+[12:34:03] — person ahead on your right, 1.9 meters
+[12:34:04] — tie ahead on your left, 1.7 meters
+[12:34:04] — person ahead on your right, 4.5 meters
+[12:34:05] — person ahead on your right, 6.8 meters
+[12:34:06] — person ahead on your right, 8.5 meters
+[12:34:06] — person ahead on your right, 6.7 meters
+[12:34:07] — person ahead on your right, 6.2 meters
+[12:34:07] — person ahead on your right, 8.1 meters
+[12:34:08] — person ahead on your right, 5.2 meters
+[12:34:08] — person ahead on your right, 6.4 meters
+[12:34:09] — person ahead on your right, 5.3 meters
+[12:34:10] — person ahead on your right, 2.5 meters
+[12:34:10] — person ahead on your right, 1.2 meters
+[12:34:11] — person ahead on your right, 6.0 meters
+[12:34:13] — person ahead on your right, 6.5 meters
+[12:34:14] — person ahead on your center, 6.0 meters
+[12:34:15] — person ahead on your center, 5.4 meters
+[12:34:17] — laptop ahead on your center, 8.4 meters
+[12:34:17] — person ahead on your right, 1.8 meters
+[12:34:18] — person ahead on your right, 6.0 meters
+[12:34:19] — person ahead on your right, 6.6 meters
+[12:34:19] — person ahead on your right, 1.9 meters
+[12:34:20] — person ahead on your right, 5.2 meters
+[12:34:21] — person ahead on your right, 2.0 meters
+[12:34:21] — person ahead on your right, 5.5 meters
+[12:34:22] — person ahead on your right, 1.5 meters
+[12:34:22] — person ahead on your right, 2.8 meters
+[12:34:23] — person ahead on your right, 1.9 meters
+[12:34:24] — person ahead on your center, 2.1 meters
+[12:34:24] — person ahead on your center, 5.3 meters
+[12:34:25] — person ahead on your right, 5.4 meters
+[12:34:25] — person ahead on your right, 1.9 meters
+[12:34:26] — person ahead on your right, 5.7 meters
+[12:34:26] — person ahead on your right, 1.4 meters
+[12:34:27] — person ahead on your right, 6.1 meters
+[12:34:27] — person ahead on your right, 1.3 meters
+[12:34:28] — person ahead on your right, 6.2 meters
+[12:34:28] — person ahead on your right, 1.2 meters
+[12:34:29] — person ahead on your right, 6.1 meters
+[12:34:29] — person ahead on your right, 1.3 meters
+[12:34:30] — person ahead on your right, 6.8 meters
+[12:34:31] — person ahead on your right, 1.3 meters
+[12:34:31] — person ahead on your right, 6.0 meters
+[12:34:32] — person ahead on your right, 1.3 meters
+[12:34:32] — person ahead on your right, 5.6 meters
+[12:34:33] — person ahead on your right, 1.2 meters
+[12:34:33] — person ahead on your center, 2.9 meters
+[12:34:34] — person ahead on your center, 6.3 meters
+[12:34:34] — person ahead on your right, 6.2 meters
+[12:34:35] — person ahead on your right, 3.8 meters
+[12:34:35] — person ahead on your right, 2.2 meters
+[12:34:36] — person ahead on your right, 3.0 meters
+[12:34:36] — tie ahead on your left, 2.3 meters
+[12:34:37] — person ahead on your right, 6.3 meters
+[12:34:37] — person ahead on your right, 3.5 meters
+[12:34:38] — person ahead on your right, 4.3 meters
+[12:34:39] — person ahead on your right, 3.5 meters
+[12:34:39] — person ahead on your right, 2.9 meters
+[12:34:40] — person ahead on your right, 6.9 meters
+[12:34:40] — person ahead on your right, 3.0 meters
+[12:34:41] — tie ahead on your left, 2.3 meters
+[12:34:41] — person ahead on your right, 2.2 meters
+[12:34:42] — person ahead on your right, 1.7 meters
+[12:34:42] — person ahead on your right, 5.5 meters
+[12:34:43] — person ahead on your right, 1.3 meters
+[12:34:43] — person ahead on your right, 6.3 meters
+[12:34:44] — person ahead on your right, 1.2 meters
+[12:34:44] — person ahead on your right, 6.6 meters
+[12:34:45] — person ahead on your right, 1.2 meters
+[12:34:46] — person ahead on your right, 5.9 meters
+[12:34:46] — person ahead on your right, 1.1 meters
+[12:34:47] — person ahead on your right, 6.1 meters
+[12:34:47] — person ahead on your right, 1.2 meters
+[12:34:48] — person ahead on your right, 5.7 meters
+[12:34:48] — person ahead on your right, 1.3 meters
+[12:34:49] — person ahead on your right, 5.6 meters
+[12:34:49] — person ahead on your right, 1.3 meters
+[12:34:50] — person ahead on your right, 5.8 meters
+[12:34:50] — person ahead on your right, 1.2 meters
+[12:34:51] — person ahead on your right, 4.7 meters
+[12:34:52] — person ahead on your right, 1.3 meters
+[12:34:52] — person ahead on your right, 4.2 meters
+[12:34:53] — person ahead on your right, 1.8 meters
+[12:34:53] — person ahead on your right, 4.4 meters
+[12:34:54] — person ahead on your right, 1.6 meters
+[12:34:54] — person ahead on your right, 4.2 meters
+[12:34:55] — person ahead on your right, 1.7 meters
+[12:34:55] — person ahead on your right, 3.2 meters
+[12:34:56] — person ahead on your right, 1.7 meters
+[12:34:56] — person ahead on your right, 4.4 meters
+[12:34:57] — person ahead on your right, 1.8 meters
+[12:34:57] — person ahead on your right, 4.4 meters
+[12:34:58] — person ahead on your right, 1.6 meters
+[12:34:58] — person ahead on your right, 4.0 meters
+[12:34:59] — person ahead on your right, 1.7 meters
+[12:34:59] — person ahead on your right, 4.1 meters
+[12:35:00] — person ahead on your right, 1.6 meters
+[12:35:01] — person ahead on your right, 4.3 meters
+[12:35:01] — person ahead on your right, 1.5 meters
+[12:35:02] — person ahead on your right, 4.4 meters
+[12:35:02] — person ahead on your right, 1.7 meters
+[12:35:03] — person ahead on your right, 5.9 meters
+[12:35:03] — person ahead on your right, 1.1 meters
+[12:35:04] — person ahead on your right, 1.6 meters
+[12:35:04] — person ahead on your right, 2.3 meters
+[12:35:05] — person ahead on your right, 1.2 meters
+[12:35:05] — person ahead on your right, 1.7 meters
+[12:35:06] — person ahead on your right, 1.2 meters
+[12:35:06] — person ahead on your right, 5.4 meters
+[12:35:07] — person ahead on your right, 1.2 meters
+[12:35:08] — person ahead on your right, 4.3 meters
+[12:35:08] — person ahead on your right, 2.5 meters
+[12:35:09] — person ahead on your right, 3.4 meters
+[12:35:09] — person ahead on your right, 4.3 meters
+[12:35:10] — person ahead on your right, 3.1 meters
+[12:35:10] — person ahead on your right, 3.6 meters
+[12:35:11] — person ahead on your right, 7.5 meters
+[12:35:11] — person ahead on your right, 2.1 meters
+[12:35:12] — person ahead on your right, 2.6 meters
+[12:35:12] — person ahead on your right, 3.6 meters
+[12:35:13] — person ahead on your right, 4.4 meters
+[12:35:13] — person ahead on your right, 6.1 meters
+[12:35:14] — tie ahead on your left, 1.8 meters
+[12:35:14] — person ahead on your right, 2.8 meters
+[12:35:15] — person ahead on your right, 2.0 meters
+[12:35:16] — person ahead on your right, 5.9 meters
+[12:35:16] — person ahead on your right, 2.1 meters
+[12:35:17] — person ahead on your right, 6.1 meters
+[12:35:17] — person ahead on your right, 1.6 meters
+[12:35:18] — person ahead on your right, 6.4 meters
+[12:35:18] — person ahead on your right, 1.6 meters
+[12:35:19] — person ahead on your right, 4.9 meters
+[12:35:19] — person ahead on your right, 1.7 meters
+[12:35:20] — person ahead on your right, 6.3 meters
+[12:35:20] — person ahead on your right, 1.6 meters
+[12:35:21] — person ahead on your right, 6.6 meters
+[12:35:21] — person ahead on your right, 1.7 meters
+[12:35:22] — person ahead on your right, 5.6 meters
+[12:35:22] — person ahead on your right, 1.6 meters
+[12:35:23] — person ahead on your right, 5.6 meters
+[12:35:24] — person ahead on your right, 1.7 meters
+[12:35:24] — person ahead on your right, 5.4 meters
+[12:35:25] — person ahead on your right, 1.6 meters
+[12:35:25] — person ahead on your right, 5.3 meters
+[12:35:26] — person ahead on your right, 1.6 meters
+[12:35:26] — person ahead on your right, 6.2 meters
+[12:35:27] — person ahead on your right, 1.7 meters
+[12:35:27] — person ahead on your right, 6.0 meters
+[12:35:28] — person ahead on your right, 1.9 meters
+[12:35:28] — person ahead on your right, 5.8 meters
+[12:35:29] — person ahead on your right, 1.9 meters
+[12:35:29] — person ahead on your right, 6.1 meters
+[12:35:30] — person ahead on your right, 1.7 meters
+[12:35:31] — person ahead on your center, 5.5 meters
+[12:35:31] — person ahead on your right, 4.9 meters
+[12:35:32] — person ahead on your right, 1.7 meters
+[12:35:32] — person ahead on your right, 5.7 meters
+[12:35:33] — person ahead on your right, 1.7 meters
+[12:35:33] — person ahead on your right, 5.9 meters
+[12:35:34] — person ahead on your right, 1.7 meters
+[12:35:34] — person ahead on your right, 5.9 meters
+[12:35:35] — person ahead on your right, 1.7 meters
+[12:35:35] — person ahead on your right, 6.7 meters
+[12:35:36] — person ahead on your right, 1.2 meters
+[12:35:36] — person ahead on your right, 1.7 meters
+[12:35:37] — person ahead on your right, 5.9 meters
+[12:35:38] — person ahead on your right, 1.7 meters
+[12:35:38] — person ahead on your right, 5.9 meters
+[12:35:39] — person ahead on your right, 1.7 meters
+[12:35:39] — person ahead on your right, 5.4 meters
+[12:35:40] — person ahead on your right, 1.6 meters
+[12:35:40] — person ahead on your right, 2.3 meters
+[12:35:41] — person ahead on your right, 3.8 meters
+[12:35:41] — person ahead on your right, 3.1 meters
+[12:35:42] — tie ahead on your left, 2.0 meters
+[12:35:43] — person ahead on your right, 2.3 meters
+[12:35:44] — person ahead on your right, 3.8 meters
+[12:35:44] — person ahead on your right, 7.1 meters
+[12:35:45] — person ahead on your right, 2.6 meters
+[12:35:45] — person ahead on your right, 3.4 meters
+[12:35:46] — person ahead on your right, 6.7 meters
+[12:35:46] — person ahead on your right, 2.2 meters
+[12:35:47] — person ahead on your right, 3.1 meters
+[12:35:47] — person ahead on your right, 6.5 meters
+[12:35:48] — person ahead on your right, 2.4 meters
+[12:35:48] — person ahead on your right, 3.3 meters
+[12:35:49] — person ahead on your right, 2.2 meters
+[12:35:49] — person ahead on your center, 4.8 meters
+[12:35:50] — person ahead on your right, 5.4 meters
+[12:35:51] — person ahead on your right, 2.8 meters
+[12:35:51] — person ahead on your right, 1.1 meters
+[12:35:52] — person ahead on your right, 5.0 meters
+[12:35:52] — person ahead on your right, 1.3 meters
+[12:35:53] — person ahead on your right, 5.6 meters
+[12:35:53] — person ahead on your right, 1.3 meters
+[12:35:54] — person ahead on your right, 5.0 meters
+[12:35:54] — person ahead on your right, 1.2 meters
+[12:35:55] — person ahead on your right, 2.0 meters
+[12:35:55] — person ahead on your right, 4.9 meters
+[12:35:56] — person ahead on your right, 5.5 meters
+[12:35:56] — person ahead on your right, 4.3 meters
+[12:35:57] — person ahead on your right, 1.6 meters
+[12:35:57] — person ahead on your right, 6.1 meters
+[12:35:58] — person ahead on your right, 1.8 meters
+[12:35:58] — person ahead on your right, 5.4 meters
+[12:35:59] — person ahead on your right, 1.8 meters
+[12:36:00] — person ahead on your right, 5.2 meters
+[12:36:00] — person ahead on your right, 1.5 meters
+[12:36:01] — person ahead on your right, 2.6 meters
+[12:36:01] — person ahead on your right, 2.0 meters
+[12:36:02] — person ahead on your right, 5.1 meters
+[12:36:02] — person ahead on your right, 1.7 meters
+[12:36:03] — person ahead on your right, 2.7 meters
+[12:36:03] — person ahead on your right, 1.8 meters
+[12:36:04] — person ahead on your right, 2.4 meters
+[12:36:05] — traffic light ahead on your left, 6.4 meters
+[12:36:05] — person ahead on your center, 1.4 meters
+[12:36:06] — person ahead on your center, 2.2 meters
+[12:36:07] — vase ahead on your left, 0.3 meters
+[12:36:07] — person ahead on your center, 1.0 meters
+[12:36:08] — person ahead on your center, 0.5 meters
+[12:36:08] — person ahead on your center, 1.7 meters
+[12:36:09] — person ahead on your center, 0.2 meters
+[12:36:09] — person ahead on your left, 4.1 meters
+[13:39:03] — person ahead on your right, 1.9 meters
+[13:39:04] — person ahead on your right, 3.0 meters
+[13:39:04] — person ahead on your right, 1.4 meters
+[13:39:06] — person ahead on your center, 5.7 meters
+[13:39:07] — person ahead on your center, 9.8 meters
+[13:39:10] — clock ahead on your left, 9.8 meters
+[13:39:17] — clock ahead on your left, 9.8 meters
+[13:39:18] — person ahead on your center, 9.4 meters
+[13:39:18] — person ahead on your left, 9.0 meters
+[13:39:23] — clock ahead on your left, 9.7 meters
+[13:39:24] — person ahead on your left, 9.5 meters
+[13:39:26] — clock ahead on your left, 9.8 meters
+[13:39:31] — clock ahead on your left, 9.7 meters
+[13:39:35] — clock ahead on your left, 9.7 meters
+[13:39:39] — clock ahead on your left, 9.6 meters
+[13:39:40] — person ahead on your left, 9.6 meters
+[13:39:43] — clock ahead on your left, 9.8 meters
+[13:39:49] — person ahead on your left, 9.4 meters
+[13:40:00] — clock ahead on your left, 9.7 meters
+[13:40:03] — clock ahead on your left, 9.7 meters
+[13:40:41] — person ahead on your left, 9.1 meters
+[13:40:41] — person ahead on your left, 8.5 meters
+[13:40:43] — cat ahead on your left, 6.1 meters
+[13:40:43] — person ahead on your left, 6.7 meters
+[13:40:44] — person ahead on your left, 8.6 meters
+[13:40:44] — person ahead on your left, 8.0 meters
+[13:40:45] — person ahead on your left, 7.4 meters
+[13:40:46] — person ahead on your left, 6.5 meters
+[13:40:46] — person ahead on your left, 7.0 meters
+[13:40:47] — person ahead on your left, 6.5 meters
+[13:40:47] — person ahead on your left, 7.4 meters
+[13:40:48] — person ahead on your left, 6.9 meters
+[13:40:48] — person ahead on your left, 7.4 meters
+[13:40:49] — person ahead on your left, 6.9 meters
+[13:40:53] — person ahead on your left, 6.8 meters
+[13:40:53] — person ahead on your left, 5.7 meters
+[13:40:55] — person ahead on your left, 5.2 meters
+[13:40:55] — person ahead on your left, 5.8 meters
+[13:40:56] — person ahead on your left, 4.9 meters
+[13:40:56] — person ahead on your left, 5.9 meters
+[13:40:58] — person ahead on your left, 6.5 meters
+[13:41:01] — person ahead on your left, 6.3 meters
+[13:41:05] — person ahead on your left, 6.5 meters
+[13:41:08] — person ahead on your left, 6.1 meters
+[13:41:10] — person ahead on your left, 6.9 meters
+[13:41:11] — person ahead on your left, 6.2 meters
+[13:41:12] — person ahead on your left, 6.7 meters
+[13:41:14] — person ahead on your left, 6.0 meters
+[13:41:15] — person ahead on your left, 6.7 meters
+[13:41:18] — person ahead on your left, 6.9 meters
+[13:41:21] — person ahead on your left, 7.0 meters
+[13:41:24] — person ahead on your left, 6.2 meters
+[13:41:25] — person ahead on your left, 6.9 meters
+[13:41:28] — person ahead on your left, 6.7 meters
+[13:41:30] — person ahead on your left, 5.9 meters
+[13:41:31] — person ahead on your left, 6.9 meters
+[13:41:33] — person ahead on your left, 6.3 meters
+[13:41:34] — person ahead on your left, 5.6 meters
+[13:41:34] — person ahead on your left, 5.1 meters
+[13:41:35] — person ahead on your left, 7.0 meters
+[13:41:35] — person ahead on your left, 6.0 meters
+[13:41:37] — person ahead on your left, 6.5 meters
+[13:41:38] — person ahead on your left, 5.5 meters
+[13:41:38] — person ahead on your left, 6.4 meters
+[13:41:39] — person ahead on your left, 5.8 meters
+[13:41:39] — person ahead on your left, 5.3 meters
+[13:41:41] — person ahead on your left, 5.8 meters
+[13:41:43] — person ahead on your left, 7.3 meters
+[13:41:44] — person ahead on your left, 6.5 meters
+[13:41:44] — person ahead on your left, 7.0 meters
+[13:41:46] — person ahead on your left, 6.5 meters
+[13:41:50] — person ahead on your left, 6.3 meters
+[13:41:53] — person ahead on your left, 6.6 meters
+[13:41:57] — person ahead on your left, 7.0 meters
+[13:41:57] — person ahead on your left, 6.3 meters
+[13:41:58] — person ahead on your left, 5.8 meters
+[13:42:03] — person ahead on your left, 9.1 meters
+[13:42:04] — cat ahead on your left, 3.2 meters
+[13:42:04] — person ahead on your left, 8.1 meters
+[13:42:05] — person ahead on your center, 8.1 meters
+[13:42:06] — person ahead on your center, 0.9 meters
+[13:42:07] — person ahead on your center, 0.1 meters
+[13:42:10] — person ahead on your center, 2.6 meters
+[13:42:10] — person ahead on your center, 0.6 meters
+[13:42:11] — person ahead on your center, 1.3 meters
+[13:42:11] — person ahead on your center, 1.9 meters
+[13:42:12] — person ahead on your center, 1.4 meters
+[13:42:12] — person ahead on your center, 7.8 meters
+[13:42:13] — person ahead on your center, 1.3 meters
+[13:42:13] — person ahead on your left, 7.4 meters
+[13:42:15] — person ahead on your left, 6.6 meters
+[13:42:15] — person ahead on your center, 4.4 meters
+[13:42:16] — person ahead on your center, 8.8 meters
+[13:42:17] — person ahead on your center, 9.8 meters
+[13:42:19] — person ahead on your center, 1.8 meters
+[13:42:19] — person ahead on your center, 2.7 meters
+[13:42:20] — person ahead on your center, 2.0 meters
+[13:42:20] — person ahead on your left, 8.2 meters
+[13:42:21] — person ahead on your center, 1.4 meters
+[13:42:21] — person ahead on your left, 6.9 meters
+[13:42:22] — person ahead on your center, 2.0 meters
+[13:42:23] — person ahead on your left, 8.4 meters
+[13:50:35] — person ahead on your center, 0.5 meters
+[13:50:38] — person ahead on your center, 0.6 meters
+[13:50:39] — person ahead on your center, 1.1 meters
+[13:50:41] — person ahead on your center, 1.9 meters
+[13:50:42] — person ahead on your center, 1.3 meters
+[13:50:43] — person ahead on your center, 0.7 meters
+[13:50:44] — person ahead on your center, 1.6 meters
+[13:50:44] — person ahead on your center, 0.7 meters
+[13:50:46] — person ahead on your center, 1.4 meters
+[13:50:46] — person ahead on your center, 2.2 meters
+[13:50:47] — person ahead on your center, 4.2 meters
+[13:50:47] — person ahead on your center, 4.8 meters
+[13:50:50] — person ahead on your center, 5.3 meters
+[13:50:50] — person ahead on your center, 1.2 meters
+[13:50:51] — person ahead on your center, 8.4 meters
+[13:50:52] — person ahead on your center, 7.9 meters
+[13:50:53] — person ahead on your center, 1.0 meters
+[13:50:53] — person ahead on your center, 2.1 meters
+[13:50:54] — traffic light ahead on your left, 1.3 meters
+[13:50:54] — person ahead on your center, 3.9 meters
+[13:50:55] — cell phone ahead on your left, 0.6 meters
+[13:50:55] — person ahead on your center, 3.4 meters
+[13:50:56] — person ahead on your center, 2.4 meters
+[13:50:56] — person ahead on your center, 5.9 meters
+[13:50:57] — person ahead on your center, 1.1 meters
+[13:50:57] — person ahead on your center, 3.9 meters
+[13:50:58] — remote ahead on your left, 1.8 meters
+[13:50:58] — person ahead on your center, 1.8 meters
+[13:50:59] — person ahead on your center, 3.1 meters
+[13:50:59] — person ahead on your center, 2.1 meters
+[13:51:00] — person ahead on your center, 7.3 meters
+[13:51:00] — person ahead on your center, 3.5 meters
+[13:51:02] — person ahead on your center, 2.3 meters
+[13:51:04] — person ahead on your center, 3.7 meters
+[13:51:05] — person ahead on your center, 2.9 meters
+[13:51:06] — person ahead on your center, 3.8 meters
+[13:51:07] — person ahead on your center, 4.3 meters
+[13:51:07] — person ahead on your center, 3.2 meters
+[13:51:08] — person ahead on your center, 2.7 meters
+[13:51:10] — person ahead on your center, 2.2 meters
+[13:51:10] — person ahead on your center, 2.8 meters
+[13:51:11] — cell phone ahead on your left, 3.2 meters
+[13:51:12] — cell phone ahead on your center, 2.7 meters
+[13:51:13] — cell phone ahead on your center, 3.2 meters
+[13:51:14] — person ahead on your center, 3.0 meters
+[13:51:14] — person ahead on your center, 4.4 meters
+[13:51:16] — person ahead on your center, 4.9 meters
+[13:51:18] — person ahead on your center, 3.9 meters
+[13:51:21] — person ahead on your center, 4.5 meters
+[13:51:21] — person ahead on your center, 3.8 meters
+[13:51:24] — person ahead on your center, 4.4 meters
+[13:51:24] — person ahead on your center, 2.8 meters
+[13:51:25] — cell phone ahead on your center, 2.3 meters
+[13:51:27] — person ahead on your center, 2.5 meters
+[13:51:28] — cell phone ahead on your center, 2.5 meters
+[13:51:30] — person ahead on your center, 2.8 meters
+[13:51:32] — cell phone ahead on your center, 2.5 meters
+[13:51:34] — person ahead on your center, 2.7 meters
+[13:51:37] — person ahead on your center, 2.5 meters
+[13:51:40] — person ahead on your center, 2.1 meters
+[13:51:44] — person ahead on your center, 2.4 meters
+[13:51:46] — person ahead on your center, 3.2 meters
+[13:51:47] — person ahead on your center, 4.3 meters
+[13:51:48] — person ahead on your center, 3.4 meters
+[13:51:48] — person ahead on your center, 4.4 meters
+[13:51:49] — person ahead on your center, 3.7 meters
+[13:51:51] — person ahead on your center, 3.2 meters
+[13:51:52] — person ahead on your center, 3.8 meters
+[13:51:55] — person ahead on your center, 3.7 meters
+[13:51:59] — person ahead on your center, 4.4 meters
+[13:52:00] — person ahead on your center, 1.3 meters
+[13:52:00] — person ahead on your center, 0.3 meters
+[13:52:03] — person ahead on your center, 0.5 meters
+[13:53:50] — person ahead on your center, 0.5 meters
+[13:53:53] — person ahead on your center, 0.5 meters
+[13:53:56] — person ahead on your center, 0.2 meters
+[13:54:00] — person ahead on your center, 0.1 meters
+[13:54:01] — person ahead on your center, 0.7 meters
+[13:55:15] — cell phone ahead on your center, 3.4 meters
+[13:55:15] — person ahead on your center, 2.0 meters
+[13:55:16] — person ahead on your center, 2.7 meters
+[13:55:17] — person ahead on your center, 3.4 meters
+[13:55:18] — person ahead on your center, 2.0 meters
+[13:55:18] — person ahead on your center, 3.8 meters
+[13:55:19] — person ahead on your center, 3.3 meters
+[13:55:19] — person ahead on your center, 4.1 meters
+[13:55:20] — person ahead on your center, 4.6 meters
+[13:55:22] — person ahead on your center, 3.4 meters
+[13:55:22] — person ahead on your center, 0.7 meters
+[13:55:23] — person ahead on your center, 3.0 meters
+[13:55:23] — person ahead on your center, 2.0 meters
+[13:55:24] — person ahead on your center, 3.2 meters
+[13:55:25] — person ahead on your center, 1.4 meters
+[13:55:28] — person ahead on your center, 3.3 meters
+[13:55:30] — person ahead on your center, 4.8 meters
+[13:55:31] — person ahead on your center, 8.1 meters
+[13:55:31] — person ahead on your center, 7.1 meters
+[13:55:32] — person ahead on your center, 7.6 meters
+[13:55:33] — person ahead on your center, 8.4 meters
+[13:55:34] — person ahead on your center, 1.8 meters
+[13:55:34] — person ahead on your center, 1.1 meters
+[13:55:37] — person ahead on your center, 1.9 meters
+[13:55:40] — person ahead on your center, 1.1 meters
+[13:55:40] — person ahead on your center, 2.5 meters
+[13:55:41] — person ahead on your center, 6.3 meters
+[13:55:41] — person ahead on your center, 2.0 meters
+[13:55:42] — person ahead on your center, 0.9 meters
+[13:55:43] — person ahead on your center, 0.1 meters
+[13:55:45] — person ahead on your center, 1.3 meters
+[13:55:48] — person ahead on your center, 1.5 meters
+[13:55:51] — person ahead on your center, 1.5 meters
+[13:55:52] — person ahead on your center, 2.2 meters
+[13:55:53] — person ahead on your center, 1.5 meters
+[13:55:53] — person ahead on your center, 6.9 meters
+[13:55:54] — person ahead on your center, 1.4 meters
+[13:55:56] — person ahead on your center, 0.1 meters
+[13:55:56] — person ahead on your center, 1.8 meters
+[13:55:57] — person ahead on your center, 0.3 meters
+[13:55:58] — person ahead on your center, 4.1 meters
+[13:55:58] — person ahead on your center, 4.7 meters
+[13:55:59] — person ahead on your center, 4.1 meters
+[13:55:59] — person ahead on your center, 2.8 meters
+[13:56:03] — person ahead on your center, 3.1 meters
+[13:56:04] — person ahead on your center, 3.6 meters
+[13:56:04] — person ahead on your center, 3.1 meters
+[13:56:05] — person ahead on your center, 2.1 meters
+[13:56:05] — person ahead on your center, 3.0 meters
+[13:56:06] — person ahead on your center, 3.5 meters
+[13:56:06] — person ahead on your center, 3.0 meters
+[13:56:08] — person ahead on your center, 1.7 meters
+[13:56:09] — person ahead on your center, 7.1 meters
+[13:56:10] — person ahead on your center, 1.8 meters
+[13:56:11] — person ahead on your center, 3.7 meters
+[13:56:11] — person ahead on your center, 6.2 meters
+[13:56:12] — person ahead on your center, 1.0 meters
+2025-11-14 14:59:28 - person at 0.5 meters
+2025-11-14 14:59:31 - person at 0.6 meters
+2025-11-14 14:59:34 - person at 0.6 meters
+[15:00:57] — person ahead on your center, 1.3 meters
+[15:00:58] — person ahead on your center, 2.0 meters
+[15:00:59] — person ahead on your center, 0.9 meters
+[15:01:02] — person ahead on your center, 1.0 meters
+[15:01:05] — person ahead on your center, 0.9 meters
+[15:01:08] — person ahead on your center, 0.9 meters
+[15:01:11] — person ahead on your center, 0.4 meters
+[15:14:12] — person ahead on your center, 0.9 meters
+[15:14:15] — person ahead on your center, 1.0 meters
+[15:14:17] — person ahead on your center, 1.5 meters
+[15:14:19] — person ahead on your center, 2.6 meters
+[15:14:19] — person ahead on your center, 3.8 meters
+[15:14:20] — person ahead on your center, 2.3 meters
+[15:14:22] — person ahead on your center, 0.6 meters
+[15:14:23] — person ahead on your center, 4.1 meters
+[15:14:23] — person ahead on your center, 7.6 meters
+[15:14:24] — person ahead on your center, 0.3 meters
+[15:14:24] — person ahead on your center, 1.7 meters
+[15:14:28] — person ahead on your center, 1.5 meters
+[15:14:28] — person ahead on your center, 2.5 meters
+[15:14:30] — person ahead on your center, 1.7 meters
+[15:14:30] — person ahead on your center, 1.1 meters
+[15:14:30] — wine glass ahead on your center, 6.0 meters
+[15:14:31] — person ahead on your left, 9.3 meters
+[15:14:31] — vase ahead on your center, 5.5 meters
+[15:14:32] — person ahead on your left, 1.3 meters
+[15:14:34] — vase ahead on your center, 5.0 meters
+[15:14:34] — wine glass ahead on your center, 5.6 meters
+[15:14:35] — person ahead on your left, 1.4 meters
+[15:14:36] — vase ahead on your center, 5.9 meters
+[15:14:38] — person ahead on your left, 3.2 meters
+[15:14:39] — tennis racket ahead on your center, 3.1 meters
+[15:14:40] — person ahead on your left, 5.9 meters
+[15:14:41] — person ahead on your left, 9.4 meters
+[15:14:41] — tennis racket ahead on your center, 2.6 meters
+[15:14:42] — person ahead on your left, 3.3 meters
+[15:14:42] — vase ahead on your center, 2.4 meters
+[15:14:43] — person ahead on your left, 2.4 meters
+[15:14:43] — person ahead on your left, 3.8 meters
+[15:14:44] — person ahead on your left, 3.0 meters
+[15:14:44] — wine glass ahead on your center, 3.9 meters
+[15:14:44] — person ahead on your left, 3.7 meters
+[15:14:45] — person ahead on your left, 2.8 meters
+[15:14:46] — vase ahead on your center, 5.4 meters
+[15:14:46] — person ahead on your left, 9.4 meters
+[15:14:47] — vase ahead on your center, 3.6 meters
+[15:14:49] — person ahead on your left, 9.5 meters
+[15:14:51] — person ahead on your left, 8.9 meters
+[15:14:54] — person ahead on your left, 9.1 meters
+[15:14:56] — person ahead on your left, 2.6 meters
+[15:14:56] — person ahead on your left, 9.2 meters
+[15:14:59] — person ahead on your left, 4.0 meters
+[15:14:59] — person ahead on your left, 8.8 meters
+[15:15:03] — person ahead on your left, 9.0 meters
+[15:15:03] — tie ahead on your left, 0.5 meters
+[15:15:06] — person ahead on your left, 8.9 meters
+[15:15:09] — person ahead on your left, 9.2 meters
+[15:15:12] — umbrella ahead on your center, 3.9 meters
+[15:15:12] — person ahead on your left, 9.4 meters
+[15:15:15] — tennis racket ahead on your center, 4.5 meters
+[15:15:16] — wine glass ahead on your center, 4.4 meters
+[15:15:16] — person ahead on your left, 9.3 meters
+[15:15:17] — vase ahead on your center, 4.5 meters
+[15:15:17] — vase ahead on your center, 5.3 meters
+[15:15:18] — vase ahead on your center, 3.6 meters
+[15:15:19] — vase ahead on your center, 4.5 meters
+[15:15:19] — person ahead on your left, 9.2 meters
+[15:15:20] — vase ahead on your center, 3.7 meters
+[15:15:21] — umbrella ahead on your center, 3.3 meters
+[15:15:22] — chair ahead on your left, 8.7 meters
+[15:15:22] — person ahead on your left, 9.2 meters
+[15:15:23] — tennis racket ahead on your center, 2.8 meters
+[15:15:24] — person ahead on your left, 8.6 meters
+[15:15:27] — person ahead on your left, 8.6 meters
+[15:15:28] — aeroplane ahead on your center, 3.2 meters
+[15:15:29] — person ahead on your left, 9.1 meters
+[15:15:29] — person ahead on your left, 8.5 meters
+[15:15:30] — person ahead on your left, 9.7 meters
+[15:15:31] — person ahead on your left, 8.5 meters
+[15:15:33] — person ahead on your left, 9.3 meters
+[15:15:34] — aeroplane ahead on your center, 4.1 meters
+[15:15:34] — person ahead on your left, 8.3 meters
+[15:15:35] — person ahead on your left, 3.2 meters
+[15:15:36] — person ahead on your left, 0.5 meters
+[15:15:36] — person ahead on your left, 1.5 meters
+[15:15:38] — chair ahead on your left, 7.6 meters
+[15:15:38] — person ahead on your left, 4.6 meters
+[15:15:39] — aeroplane ahead on your center, 0.4 meters
+[15:15:40] — person ahead on your left, 8.6 meters
+[15:15:40] — person ahead on your left, 5.2 meters
+[15:15:41] — person ahead on your left, 7.5 meters
+[15:15:41] — person ahead on your left, 5.3 meters
+[15:15:42] — person ahead on your left, 4.6 meters
+[15:15:43] — chair ahead on your left, 3.6 meters
+[15:15:43] — tennis racket ahead on your center, 0.2 meters
+[15:15:44] — chair ahead on your left, 2.5 meters
+[15:15:45] — person ahead on your left, 5.2 meters
+[15:15:45] — person ahead on your left, 6.0 meters
+[15:15:47] — tennis racket ahead on your center, 0.6 meters
+[15:15:48] — bench ahead on your left, 5.0 meters
+[15:15:49] — person ahead on your left, 5.2 meters
+[15:15:49] — person ahead on your left, 5.9 meters
+[15:15:50] — person ahead on your left, 6.7 meters
+[15:15:50] — tennis racket ahead on your center, 0.4 meters
+[15:15:52] — person ahead on your left, 6.0 meters
+[15:15:52] — person ahead on your left, 4.9 meters
+[15:15:53] — person ahead on your left, 6.4 meters
+[15:15:54] — person ahead on your left, 7.6 meters
+[15:15:54] — chair ahead on your left, 8.0 meters
+[15:15:56] — chair ahead on your left, 6.2 meters
+[15:15:57] — chair ahead on your left, 7.7 meters
+[15:15:57] — chair ahead on your left, 6.5 meters
+[15:15:58] — person ahead on your left, 8.0 meters
+[15:15:59] — person ahead on your left, 0.9 meters
+[15:16:00] — person ahead on your left, 0.3 meters
+[15:16:01] — person ahead on your center, 1.7 meters
+[15:16:01] — person ahead on your center, 3.4 meters
+[15:16:02] — person ahead on your center, 6.7 meters
+[15:16:02] — person ahead on your center, 3.9 meters
+[15:16:03] — person ahead on your center, 1.3 meters
+[15:16:03] — person ahead on your center, 0.7 meters
+[15:16:05] — person ahead on your center, 9.3 meters
+[15:16:06] — person ahead on your center, 0.9 meters
+[15:16:09] — person ahead on your center, 0.6 meters
+[15:18:10] — person ahead on your center, 0.4 meters
+[15:18:14] — person ahead on your center, 0.2 meters
+[15:18:17] — person ahead on your center, 0.3 meters
+[19:30:17] — skis ahead on your right, 9.0 meters
+[19:30:17] — person ahead on your center, 3.4 meters
+[19:30:18] — person ahead on your center, 1.7 meters
+[19:30:18] — skis ahead on your right, 8.1 meters
+[19:30:19] — person ahead on your center, 0.4 meters
+[19:30:22] — person ahead on your center, 1.4 meters
+[19:30:25] — person ahead on your center, 1.3 meters
+[19:30:28] — person ahead on your center, 1.0 meters
+[19:30:31] — snowboard ahead on your right, 7.3 meters
+[19:30:32] — person ahead on your center, 1.4 meters
+[19:30:35] — person ahead on your center, 1.3 meters
+[19:30:37] — person ahead on your center, 0.5 meters
+[19:30:37] — person ahead on your center, 1.8 meters
+[19:30:38] — person ahead on your left, 7.0 meters
+[19:30:38] — umbrella ahead on your left, 4.9 meters
+[19:30:39] — clock ahead on your left, 5.1 meters
+[19:30:40] — skis ahead on your right, 5.1 meters
+[19:30:40] — person ahead on your left, 2.0 meters
+[19:30:40] — bird ahead on your right, 8.5 meters
+[19:30:41] — skis ahead on your right, 9.0 meters
+[19:30:41] — bird ahead on your center, 3.6 meters
+[19:30:44] — skis ahead on your right, 9.5 meters
+[19:30:48] — person ahead on your left, 2.3 meters
+[19:30:48] — skis ahead on your right, 8.9 meters
+[19:30:49] — person ahead on your left, 1.1 meters
+[19:30:50] — person ahead on your left, 3.9 meters
+[19:30:50] — person ahead on your left, 2.7 meters
+[19:30:50] — person ahead on your left, 1.7 meters
+[19:30:51] — person ahead on your center, 2.6 meters
+[19:30:52] — person ahead on your center, 1.6 meters
+[19:30:52] — person ahead on your center, 2.2 meters
+[19:30:53] — person ahead on your center, 3.2 meters
+[19:30:53] — person ahead on your center, 0.5 meters
+[19:30:54] — person ahead on your center, 4.1 meters
+[19:30:54] — person ahead on your center, 0.9 meters
+[19:30:56] — person ahead on your center, 2.1 meters
+[19:30:57] — person ahead on your center, 3.4 meters
+[19:30:57] — person ahead on your right, 2.6 meters
+[19:30:58] — person ahead on your right, 1.9 meters
+[19:30:58] — person ahead on your right, 2.8 meters
+[19:30:59] — person ahead on your right, 2.0 meters
+[19:30:59] — person ahead on your right, 2.9 meters
+[19:31:00] — person ahead on your right, 0.9 meters
+[19:31:01] — person ahead on your right, 7.1 meters
+[19:31:01] — person ahead on your right, 0.3 meters
+[19:31:05] — person ahead on your right, 1.3 meters
+[19:31:06] — person ahead on your right, 0.5 meters
+[19:31:06] — person ahead on your center, 7.8 meters
+[19:31:07] — umbrella ahead on your left, 5.6 meters
+[19:31:08] — umbrella ahead on your left, 5.0 meters
+[19:31:09] — umbrella ahead on your left, 6.0 meters
+[19:31:10] — umbrella ahead on your left, 5.1 meters
+[19:31:10] — person ahead on your center, 4.4 meters
+[19:31:11] — person ahead on your center, 2.7 meters
+[19:31:11] — person ahead on your center, 1.0 meters
+[19:31:12] — umbrella ahead on your left, 5.9 meters
+[19:31:13] — umbrella ahead on your left, 5.1 meters
+[19:31:14] — person ahead on your center, 0.5 meters
+[19:31:15] — clock ahead on your left, 6.1 meters
+[19:31:16] — umbrella ahead on your left, 5.7 meters
+[19:31:16] — clock ahead on your left, 5.4 meters
+[19:31:17] — person ahead on your center, 0.5 meters
+[19:31:17] — clock ahead on your left, 6.1 meters
+[19:31:19] — umbrella ahead on your left, 5.6 meters
+[19:31:19] — person ahead on your center, 1.0 meters
+[19:31:21] — umbrella ahead on your left, 4.7 meters
+[19:31:22] — umbrella ahead on your left, 5.7 meters
+[19:31:22] — cell phone ahead on your center, 7.1 meters
+[19:31:23] — person ahead on your center, 1.0 meters
+[19:31:23] — umbrella ahead on your left, 4.9 meters
+[19:31:24] — person ahead on your center, 1.6 meters
+[19:31:24] — person ahead on your center, 0.6 meters
+[19:31:24] — umbrella ahead on your left, 5.6 meters
+[19:34:42] — person ahead on your center, 2.0 meters
+[19:34:42] — person ahead on your center, 8.5 meters
+[19:34:44] — person ahead on your center, 2.0 meters
+[19:34:44] — person ahead on your center, 3.4 meters
+[19:34:45] — person ahead on your center, 1.2 meters
+[19:34:48] — person ahead on your center, 0.6 meters
+[19:34:49] — person ahead on your center, 1.1 meters
+[19:34:53] — person ahead on your center, 0.9 meters
+[19:34:54] — surfboard ahead on your left, 5.5 meters
+[19:34:56] — person ahead on your center, 0.9 meters
+[19:34:57] — umbrella ahead on your left, 6.7 meters
+[19:34:59] — person ahead on your center, 1.1 meters
+[19:35:00] — umbrella ahead on your left, 7.0 meters
+[19:35:01] — umbrella ahead on your left, 6.4 meters
+[19:35:01] — umbrella ahead on your left, 5.6 meters
+[19:47:50] — person ahead on your center, 3.9 meters
+[19:47:51] — person ahead on your center, 7.7 meters
+[19:47:52] — person ahead on your center, 1.0 meters
+[19:47:52] — person ahead on your center, 3.4 meters
+[19:47:53] — person ahead on your center, 1.2 meters
+[19:47:53] — person ahead on your center, 3.2 meters
+[19:47:54] — person ahead on your center, 1.2 meters
+[19:47:54] — person ahead on your left, 2.7 meters
+[19:47:55] — person ahead on your left, 3.8 meters
+[19:47:55] — person ahead on your left, 3.3 meters
+[19:47:56] — person ahead on your left, 2.6 meters
+[19:47:56] — person ahead on your left, 7.1 meters
+[19:47:57] — person ahead on your center, 1.2 meters
+[19:47:57] — bird ahead on your left, 3.7 meters
+[19:47:58] — person ahead on your left, 3.1 meters
+[19:47:59] — person ahead on your center, 3.7 meters
+[19:47:59] — person ahead on your center, 1.0 meters
+[19:48:00] — person ahead on your left, 4.2 meters
+[19:48:00] — person ahead on your center, 4.9 meters
+[19:48:00] — person ahead on your center, 0.7 meters
+[19:48:01] — person ahead on your left, 5.1 meters
+[19:48:01] — person ahead on your left, 4.3 meters
+[19:48:02] — person ahead on your center, 1.4 meters
+[19:48:02] — person ahead on your center, 1.9 meters
+[19:48:03] — person ahead on your center, 0.6 meters
+[19:48:03] — person ahead on your left, 5.0 meters
+[19:48:03] — person ahead on your center, 4.6 meters
+[19:48:04] — person ahead on your center, 0.9 meters
+[19:48:04] — person ahead on your left, 4.1 meters
+[19:48:05] — person ahead on your center, 4.8 meters
+[19:48:05] — person ahead on your center, 0.4 meters
+[19:48:06] — person ahead on your center, 4.0 meters
+[19:48:06] — person ahead on your center, 0.8 meters
+[19:48:07] — person ahead on your left, 4.7 meters
+[19:48:07] — person ahead on your left, 3.8 meters
+[19:48:08] — person ahead on your center, 4.4 meters
+[19:48:08] — person ahead on your center, 0.4 meters
+[19:48:09] — person ahead on your center, 4.8 meters
+[19:48:09] — person ahead on your center, 0.5 meters
+[19:48:09] — person ahead on your center, 4.4 meters
+[19:48:10] — person ahead on your center, 0.9 meters
+[19:48:10] — person ahead on your left, 4.8 meters
+[19:48:11] — person ahead on your center, 0.4 meters
+[19:48:11] — person ahead on your center, 5.3 meters
+[19:48:11] — person ahead on your center, 0.8 meters
+[19:48:12] — person ahead on your center, 5.5 meters
+[19:48:13] — person ahead on your center, 0.8 meters
+[19:48:13] — person ahead on your left, 5.9 meters
+[19:48:14] — person ahead on your left, 4.8 meters
+[19:48:14] — person ahead on your left, 4.2 meters
+[19:48:15] — person ahead on your center, 4.8 meters
+[19:48:15] — person ahead on your center, 0.7 meters
+[19:48:15] — person ahead on your center, 4.3 meters
+[19:48:16] — person ahead on your left, 4.9 meters
+[19:48:16] — person ahead on your center, 0.7 meters
+[19:48:17] — person ahead on your center, 1.2 meters
+[19:48:17] — person ahead on your center, 0.7 meters
+[19:48:18] — person ahead on your left, 4.4 meters
+[19:48:18] — person ahead on your left, 7.0 meters
+[19:48:19] — person ahead on your left, 0.8 meters
+[19:48:19] — dog ahead on your center, 0.6 meters
+[19:48:20] — person ahead on your left, 4.8 meters
+[19:48:20] — person ahead on your left, 0.4 meters
+[19:48:20] — person ahead on your left, 4.9 meters
+[19:48:21] — person ahead on your center, 0.7 meters
+[19:48:22] — person ahead on your center, 5.0 meters
+[19:48:22] — person ahead on your center, 0.3 meters
+[19:48:23] — person ahead on your left, 6.0 meters
+[19:48:23] — person ahead on your center, 5.3 meters
+[19:48:23] — person ahead on your center, 0.9 meters
+[19:48:24] — person ahead on your center, 4.7 meters
+[19:48:24] — person ahead on your center, 0.9 meters
+[19:48:25] — person ahead on your center, 5.5 meters
+[19:48:25] — person ahead on your center, 0.8 meters
+[19:48:26] — person ahead on your left, 5.4 meters
+[19:48:26] — person ahead on your center, 5.8 meters
+[19:48:26] — person ahead on your center, 0.8 meters
+[19:48:27] — person ahead on your center, 5.3 meters
+[19:48:28] — person ahead on your center, 2.8 meters
+[19:48:28] — person ahead on your center, 1.0 meters
+[19:48:29] — person ahead on your center, 1.5 meters
+[19:48:29] — person ahead on your center, 5.3 meters
+[19:48:29] — person ahead on your center, 2.0 meters
+[19:48:30] — person ahead on your left, 7.6 meters
+[19:48:30] — person ahead on your center, 1.0 meters
+[19:48:31] — person ahead on your left, 6.9 meters
+[19:48:31] — person ahead on your center, 0.4 meters
+[19:48:32] — person ahead on your left, 3.7 meters
+[19:48:32] — person ahead on your center, 4.7 meters
+[19:48:32] — person ahead on your center, 0.5 meters
+[19:48:33] — person ahead on your left, 4.9 meters
+[19:48:33] — person ahead on your center, 3.9 meters
+[19:48:34] — person ahead on your center, 0.6 meters
+[19:48:34] — person ahead on your center, 3.3 meters
+[19:48:35] — person ahead on your center, 0.8 meters
+[19:48:35] — bird ahead on your left, 4.6 meters
+[19:48:36] — person ahead on your left, 7.2 meters
+[19:48:36] — person ahead on your center, 4.4 meters
+[19:48:36] — person ahead on your center, 0.7 meters
+[19:48:37] — person ahead on your center, 3.9 meters
+[19:48:37] — person ahead on your center, 2.0 meters
+[19:48:38] — person ahead on your center, 2.5 meters
+[19:48:38] — person ahead on your center, 1.2 meters
+[19:48:38] — person ahead on your center, 3.1 meters
+[19:48:39] — person ahead on your center, 0.8 meters
+[19:48:39] — person ahead on your center, 3.5 meters
+[19:48:40] — person ahead on your center, 0.8 meters
+[19:48:40] — person ahead on your left, 3.7 meters
+[19:48:41] — person ahead on your center, 3.2 meters
+[19:48:41] — person ahead on your center, 0.8 meters
+[19:48:42] — person ahead on your center, 3.3 meters
+[19:48:42] — person ahead on your center, 0.9 meters
+[19:48:43] — person ahead on your center, 3.4 meters
+[19:48:43] — person ahead on your center, 1.1 meters
+[19:48:44] — person ahead on your center, 2.9 meters
+[19:48:44] — person ahead on your center, 0.9 meters
+[19:48:44] — person ahead on your left, 3.0 meters
+[19:48:45] — person ahead on your center, 4.1 meters
+[19:48:45] — person ahead on your center, 1.4 meters
+[19:48:46] — person ahead on your left, 4.0 meters
+[19:48:46] — person ahead on your left, 4.6 meters
+[19:48:47] — person ahead on your center, 3.7 meters
+[19:48:47] — person ahead on your center, 1.4 meters
+[19:48:47] — person ahead on your left, 7.8 meters
+[19:48:50] — person ahead on your left, 3.3 meters
+[19:48:50] — person ahead on your center, 0.8 meters
+[19:48:50] — person ahead on your center, 1.3 meters
+[19:48:51] — person ahead on your center, 3.9 meters
+[19:48:51] — person ahead on your center, 1.3 meters
+[19:48:52] — person ahead on your center, 3.5 meters
+[19:48:52] — person ahead on your center, 1.2 meters
+[19:48:53] — person ahead on your center, 4.4 meters
+[19:48:53] — person ahead on your center, 1.2 meters
+[19:48:53] — person ahead on your left, 7.4 meters
+[19:48:54] — person ahead on your left, 4.8 meters
+[19:48:55] — person ahead on your center, 5.2 meters
+[19:48:56] — person ahead on your center, 0.3 meters
+[19:48:56] — person ahead on your center, 2.1 meters
+[19:48:56] — person ahead on your center, 1.6 meters
+[19:48:57] — person ahead on your center, 2.1 meters
+[19:48:57] — person ahead on your left, 5.4 meters
+[19:48:58] — cell phone ahead on your center, 0.9 meters
+[19:48:58] — person ahead on your center, 1.6 meters
+[19:48:58] — person ahead on your left, 4.1 meters
+[19:48:59] — person ahead on your left, 4.9 meters
+[19:48:59] — person ahead on your left, 4.4 meters
+[19:49:00] — person ahead on your center, 5.7 meters
+[19:49:00] — person ahead on your center, 1.0 meters
+[19:49:01] — person ahead on your left, 6.9 meters
+[19:49:01] — person ahead on your center, 1.5 meters
+[19:49:01] — person ahead on your left, 4.4 meters
+[19:49:02] — person ahead on your center, 2.4 meters
+[19:49:03] — person ahead on your center, 0.6 meters
+[19:49:03] — person ahead on your left, 7.0 meters
+[19:49:04] — person ahead on your left, 2.3 meters
+[19:49:04] — person ahead on your left, 3.1 meters
+[19:49:05] — person ahead on your left, 4.2 meters
+[19:49:05] — person ahead on your center, 2.9 meters

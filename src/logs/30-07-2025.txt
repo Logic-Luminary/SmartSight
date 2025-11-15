@@ -1,0 +1,14 @@
+[07:40:29] — cell phone ahead on your right, 1.0 meters
+[07:40:32] — clock ahead on your right, 1.0 meters
+[07:42:24] — tie ahead on your right, 1.0 meters
+[07:42:24] — clock ahead on your right, 1.0 meters
+[07:42:25] — cell phone ahead on your right, 1.0 meters
+[08:39:35] — tie ahead on your center, 1.0 meters
+[08:39:36] — person ahead on your center, 1.0 meters
+[08:39:36] — person ahead on your right, 1.0 meters
+[08:39:36] — cell phone ahead on your center, 1.0 meters
+[08:39:46] — clock ahead on your right, 1.0 meters
+[08:39:51] — clock ahead on your center, 1.0 meters
+[08:39:53] — cell phone ahead on your right, 1.0 meters
+[08:40:02] — fire hydrant ahead on your center, 1.0 meters
+[08:41:11] — snowboard ahead on your center, 1.0 meters

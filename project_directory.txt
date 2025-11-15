@@ -1,0 +1,28 @@
+SmartSight/
+│
+├── models/
+│   ├── yolov5s.onnx
+│   ├── midas_small.onnx
+│   └── coco.names
+│
+├── src/
+│   ├── main.py                # Entry point
+│   ├── app.py                 # Initializes pipeline
+│   ├── detector.py            # YOLOv5s detection logic
+│   ├── depth_estimator.py     # MiDaS depth pipeline
+│   ├── memory.py              # Memory system (avoid repetition)
+│   ├── camera.py              # Threaded camera capture
+│   ├── tts.py                 # TTS and multilingual logic
+│   ├── config_loader.py       # Loads persistent config.json
+│   └── settings_ui.py         # Tkinter and CLI toggleable controls
+│
+├── assets/                    # Coming Soon in Version 2
+│   ├── ui/                    # Icons, buttons, etc.
+│   └── sounds/                # Optional feedback tones or alerts
+│
+├── config/
+│   └── config.json            # Persistent settings (subtitles, FPS, language)
+│
+├── requirements.txt           # All dependencies
+├── README.md                  # Project description
+└── .gitignore

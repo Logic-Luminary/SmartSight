@@ -1,0 +1,8 @@
+[16:46:58] — teddy bear ahead on your center, 1.0 meters
+[16:47:01] — person ahead on your center, 1.0 meters
+[16:48:05] — cup ahead on your left, 1.0 meters
+[16:48:06] — bottle ahead on your left, 1.0 meters
+[16:48:12] — vase ahead on your center, 1.0 meters
+[16:48:22] — fire hydrant ahead on your center, 1.0 meters
+[16:48:28] — person ahead on your left, 1.0 meters
+[16:48:29] — snowboard ahead on your left, 1.0 meters

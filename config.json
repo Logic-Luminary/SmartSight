@@ -1,0 +1,12 @@
+{
+    "enable_depth": true,
+    "enable_audio_panning": false,
+    "show_fps": true,
+    "skip_rate": 1,
+    "memory_duration": 3,
+    "theme": "dark",
+    "enable_gamma_correction": true,
+    "enable_brightness_boost": false,
+    "motion_confidence_fallback": true,
+    "distance_tolerance": 0.5
+}
